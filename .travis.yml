@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: Q+kjHlFdJp37iUNB9s9x5dAwqr8zrK2fBI9mGnbdhuQWYeAhLNczaKRj3Lfv/g+/dlYNjWYXEnjWLG7lQNvCBsdt3fSB446wnUbM4o4zi4Q3SyZkPkjRX6TX/biL3lA8Wod7u/6HQBQIjwMfIy378j7NMkDCuTCuuuyWUQZsxpALgRYnzNaqkFME/W7Z/rhWvLx5ugccWkz/WzEabwfWhhteLrwUiEoip4QJKdLz0benCMDOY1x/Ns8mw09nOwec1FO3MdKbNlr9VAFL2RE7qDKmJiRujgK3j+08XC6FlaXC0P4VSiOwvUB7fhI/8HBS+EMaxy7nZw+qo++AztBr2nEEw+U28bKJDSQ3yH884EqC6iVKtFUMvxfKvtIU6FKZT5n+kzlTcnniUO/eu7tbR7tMaf6Ja/IKT/cQdcYyh1oDrbT4Qpp7USxsqJbYXAIZ9KCQIo/qTw8DMXc8LUen8rQWadJlgTXziobrYPUgMY1hkHyHEu5XXKE52ec1k8Gbl9UwBydczgPpHh12+o0M1+qNtodXIOpctMkoctKSzFzJ6UZILgnzd/jqNxZy4dpCsGd407beyN9yZXkW7e+ODcMQyd0QSlxBEq5b44THAyzg46wi65HRTfI5Wnup8YscEmPRQCG3Voj0zBVfdkjMa1GqQjnYQK5/Hb0nJpda2mY=
+    - secure: O/1Dp7IZiMfr1bt4WF5jLeRokYo/ec8uBYHD6wXYfhZeXg/Y+X28/ZDef0VevHWzJokhvxQZlYqqxazVELv3JeCREFp9EIcGvF3LfJUdn2QiCSAl5fkPJnm23iW04VVDM8jY4K/1NGOux0yj3z4f+Cd3i2PIiJKYXWaZbmMbve6cpChj+N1UkEOyNCDtFQ3m0cM/z2cNJ5arGHFNuhVsKGCnM6LeSLteCXk6bKHxD+BXf720HynmKPkFExuaB995gE5IEY8FmT6ux0ib1vceiA0mcZGZ4Q14jSzmIVlmvhA1TIsjR6459Ikl42g+74VHprwjAhMiFV7bf+dyJYiE9WjmTPz6jUgZx4MllE7B9n8Yxll6BbqLc5NaS6794dgYq0vJ+FuVKy2/90fZMie/f+Ta/XzB+bj6uRuccid/HQDTOlK+UYeeSTUSWqVr8KzrCTxLfHjXirwwRZivoLolpILZoZtQobIf+YqQ1V3xhw50ymmxSYupstBhJ2OO6UlSamy5ZUqOFElh5b0Fwz3DPpEs+F1hqzVavl7Ka3aPQDy6TxrTT/E6n2cGdj4A5jMA0g7R5I3cCR6RPF8w+RKNOdkZ/6/wHPaM/5VIqAVnjSg7UQP8tB7yhlrmwlkAHLxDnJW66pn9NyXxXt94yWXJDHR8+0fvOjuRvI8CZu6FJo8=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-update_git_crazy-max
@@ -21,7 +21,7 @@ cache:
 sudo: required
 
 install:
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
+  - pip3 install pyfunceble-dev
   - sudo apt-get -y install dos2unix
 
 script:
