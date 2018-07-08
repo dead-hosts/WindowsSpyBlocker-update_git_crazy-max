@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 06 Jul 10:07:35 UTC 2018 
+# Date of generation: Sun 08 Jul 10:07:10 UTC 2018 
 
 0.0.0.0 bg.v4.a.dl.ws.microsoft.com 
 0.0.0.0 bg.v4.emdl.ws.microsoft.com 
@@ -13,12 +13,3 @@
 0.0.0.0 bg4.v4.emdl.ws.microsoft.com 
 0.0.0.0 bg5.v4.a.dl.ws.microsoft.com 
 0.0.0.0 bg5.v4.emdl.ws.microsoft.com 
-0.0.0.0 dl.delivery.mp.microsoft.com 
-0.0.0.0 emdl.ws.microsoft.com 
-0.0.0.0 fe2.ws.microsoft.com 
-0.0.0.0 fg.ds.b1.download.windowsupdate.com 
-0.0.0.0 statsfe1.ws.microsoft.com 
-0.0.0.0 statsfe2.update.microsoft.com 
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net 
-0.0.0.0 statsfe2.ws.microsoft.com 
-0.0.0.0 tlu.dl.delivery.mp.microsoft.com 
