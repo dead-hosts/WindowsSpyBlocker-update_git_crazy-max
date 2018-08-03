@@ -2,7 +2,7 @@
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker_update.list": {
         "down": 0,
         "invalid": 0,
-        "tested": 349,
-        "up": 349
+        "tested": 0,
+        "up": 0
     }
 }
