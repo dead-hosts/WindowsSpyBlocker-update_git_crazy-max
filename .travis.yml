@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: C8AlQFCePrKN6fbtoznBqzlG6pC1w7nmF1tfNIYlq12DEtMMK6J4fk2FsNiOutfgqeUSRw97btNNagw2/yzgdTOki36T9FIB9S4F2XKNSQuOjAqiFLOEG8Zh1T7fKWHGxg1tse9Hyr2ZvbnscTdpTzWnhDLUoJc1Rdpg6dEw5eSy1Ca1blRZL1gmBQSygXqo/GacWiRqTdet+NLVQnKkYMud1SK/bTGUdl5wVDcNnogQCwN1wUcg6aDUMp3WcdwQh6a9eMLyKNU8ZOLi6Zqr4QLavmBx3d0BcPT4BxZk/X/jafVSHAqcmxLlUZLW9RSoghbW4Lrfo8m4Jjmp2LRenX+oJhDCC5lmJBf2jdUuk6VMlIXiALcmeNOt9eYkHRze6NsVrh18M42I6WUa/zPOTkNC92/OK4gQ3mRendy7UAHnRD5FuEtomq8XtAr+uMaq5pn+JHQ/lcvWngUQjKBya8XE+yOJgovn9BprUzSV6NZFX6JiRjJs0pTlOHTe3cmydGyMIQgH991FZTeLTj98oB/vk1P6/8vrY1PiTLsrHoIqnwiigHPi0cgxE98oBq1Hm5Yr2IDBmdI7qTibpzqGE8tmCf07aLeqqSCQA/Q484AjT5Iu+gb6WpY8Bph+k4MTZZ9Iy1u3kEHQHH+ru2oZ7OfUjniJvo5CkHcZWuZKkHs=
+    - secure: j97KF7KgUi/dIEBh/m+HyAmXuObQeHNQReMUAaQm48pbNvNhPr/VeBr0+gzBAS/RC31iHYjkD6Ckz0rvFlD5OzCBFvFFAuXFWR7m0Air1Veh9fCmFBwlB3TJOwBHG2HUxOr7cwy2omb3ADk9O/MnIOEsJiLvnrH8eJggTz5jbNwLdKUksgi6wCt+UfwVfeO62weydK/xuUxF4oE4zMpn46JngDDT+XfymSS0BNvAtyhsdpir4vRwSSzOQ2tLDmBufE/JKcc2oL2uqI3OCIG/s6nwnoPvgN7jhm0H8Jl7xp8up1FDOrU7Jic1C2lpVFeaSxo+ASYQyBbl5sW4Wm0n4DX8ZUqHhZBeJ3R4dcZB+leiieWLKL7hp/BaAK+x9T8IpEQ3eGweMlhIVTPdx7tuNFm8/8l9tyNTmw5bz/XkTUeCHFduGgqOPui0m2ijlJThQKZaTQWkSiZ0JuU+5eYU/t6ksBt5wt2rV6Wn24g2xwGyOMn8Bdl/e9ES4HZnRdP4ZidOlMwMleXo/AmFYhx60g1c+h/vq77TvlZn5VSQETEMFja1g6k/8j2Dbt3Lv+Go4/V/rqZjS4Br/ykDErNWOWXtpTT1MA5xlVfzQX308hq97FNfuC70C60ERmAnRc42nQXOjlTZnLBAKNS5jAbMms30mZmtze8F4ur/J1DOImY=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-update_git_crazy-max
@@ -9,7 +9,7 @@ env:
 language: python
 
 python:
-  - "3.6"
+  - "3.6.6"
 
 matrix:
   fast_finish: true
