@@ -15,3 +15,12 @@ bg.v4.a.dl.ws.microsoft.com                                                     
 bg.v4.emdl.ws.microsoft.com                                                                          ACTIVE      403        Wed 09 Jan 12:01:51 UTC 2019
 blob.sn4prdstr03a.store.core.windows.net                                                             ACTIVE      400        Wed 09 Jan 12:01:51 UTC 2019
 db5-dspcdn.tlu.dl.delivery.mp.microsoft.com                                                          ACTIVE      403        Wed 09 Jan 12:01:51 UTC 2019
+dl.delivery.mp.microsoft.com                                                                         ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+emdl.ws.microsoft.com                                                                                ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+fe2.ws.microsoft.com                                                                                 ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+fg.ds.b1.download.windowsupdate.com                                                                  ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+statsfe1.ws.microsoft.com                                                                            ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+statsfe2.update.microsoft.com                                                                        ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+statsfe2.update.microsoft.com.akadns.net                                                             ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+statsfe2.ws.microsoft.com                                                                            ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
+tlu.dl.delivery.mp.microsoft.com                                                                     ACTIVE      403        Wed 09 Jan 12:01:09 UTC 2019
