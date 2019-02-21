@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker_update.list": {
-        "1550580215": [
+        "to_test": [
             "00001b-1.l.windowsupdate.com",
             "000043-1.l.windowsupdate.com",
             "000061-1.l.windowsupdate.com",
@@ -175,6 +175,8 @@
             "array408-prod.do.dsp.mp.microsoft.com",
             "au.download.windowsupdate.com",
             "au.v4.download.windowsupdate.com",
+            "bg.v4.a.dl.ws.microsoft.com",
+            "bg.v4.emdl.ws.microsoft.com",
             "bg1.v4.a.dl.ws.microsoft.com",
             "bg1.v4.emdl.ws.microsoft.com",
             "bg2.v4.a.dl.ws.microsoft.com",
@@ -185,8 +187,6 @@
             "bg4.v4.emdl.ws.microsoft.com",
             "bg5.v4.a.dl.ws.microsoft.com",
             "bg5.v4.emdl.ws.microsoft.com",
-            "bg.v4.a.dl.ws.microsoft.com",
-            "bg.v4.emdl.ws.microsoft.com",
             "bl2p.wns.notify.windows.com.akadns.net",
             "bl2p.wns.windows.com",
             "blob.sn4prdstr03a.store.core.windows.net",
@@ -363,7 +363,6 @@
             "db5sch103091715.wns.windows.com",
             "db5sch103091817.wns.windows.com",
             "db5sch103091908.wns.windows.com"
-        ],
-        "to_test": []
+        ]
     }
 }
