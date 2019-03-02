@@ -15,3 +15,10 @@
 0.0.0.0 bg.v4.emdl.ws.microsoft.com
 0.0.0.0 blob.sn4prdstr03a.store.core.windows.net
 0.0.0.0 db5-dspcdn.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 emdl.ws.microsoft.com
+0.0.0.0 fe2.ws.microsoft.com
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.update.microsoft.com
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
