@@ -1,8 +1,10 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker_update.list": {
-        "1557841403": [
+        "1558013261": [
             "statsfe2.update.microsoft.com.akadns.net"
         ],
-        "to_test": []
+        "to_test": [
+            "statsfe2.update.microsoft.com.akadns.net"
+        ]
     }
 }

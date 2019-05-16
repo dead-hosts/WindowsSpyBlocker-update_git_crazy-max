@@ -1,9 +1,7 @@
 {
-    "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker_update.list": {
-        "windowsupdate.com": {
-            "epoch": "1563667200",
-            "expiration_date": "21-jul-2019",
-            "state": "future"
-        }
+    "windowsupdate.com": {
+        "epoch": "1563667200",
+        "expiration_date": "21-jul-2019",
+        "state": "future"
     }
 }
