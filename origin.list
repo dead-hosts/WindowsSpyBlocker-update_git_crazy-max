@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts update rules
 ### License: MIT
-### Updated: 2019-05-26T21:35:00Z02:00
+### Updated: 2019-09-01T20:25:00Z02:00
 ### Donate: https://www.patreon.com/crazymax ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -477,6 +477,7 @@
 0.0.0.0 download.microsoft.com
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 ds.download.windowsupdate.com
+0.0.0.0 eaus2watcab01.blob.core.windows.net
 0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 fe2.update.microsoft.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
