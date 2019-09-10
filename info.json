@@ -1,21 +1,21 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2019-09-08T14:46:52.012732",
-    "finish_timestamp": 1567954012.012732,
-    "last_download_datetime": "2019-09-08T14:28:54.716404",
-    "last_download_timestamp": 1567952934.716404,
-    "latest_part_finish_datetime": "2019-09-08T14:46:52.012732",
-    "latest_part_finish_timestamp": 1567954012.012732,
-    "latest_part_start_datetime": "2019-09-08T14:40:51.019844",
-    "latest_part_start_timestamp": 1567953651.019844,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2019-09-10T14:34:28.395836",
+    "last_download_timestamp": 1568126068.395836,
+    "latest_part_finish_datetime": "2019-09-10T14:44:32.079607",
+    "latest_part_finish_timestamp": 1568126672.079607,
+    "latest_part_start_datetime": "2019-09-10T14:34:29.071225",
+    "latest_part_start_timestamp": 1568126069.071225,
     "name": "WindowsSpyBlocker-update_git_crazy-max",
     "own_management": false,
     "ping": [
         "@crazy-max"
     ],
     "raw_link": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt",
-    "start_datetime": "2019-09-08T14:28:55.403825",
-    "start_timestamp": 1567952935.403825
+    "start_datetime": "2019-09-10T14:34:29.066957",
+    "start_timestamp": 1568126069.066957
 }
