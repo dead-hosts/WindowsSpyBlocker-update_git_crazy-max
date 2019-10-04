@@ -188,7 +188,12 @@
             "bg.v4.a.dl.ws.microsoft.com",
             "bg.v4.emdl.ws.microsoft.com",
             "bl2p.wns.notify.windows.com.akadns.net",
-            "bl2p.wns.windows.com"
+            "bl2p.wns.windows.com",
+            "blob.sn4prdstr03a.store.core.windows.net",
+            "client.wns.windows.com",
+            "ctldl.windowsupdate.com",
+            "db3wns2011111.wns.windows.com",
+            "db5-dspcdn.tlu.dl.delivery.mp.microsoft.com"
         ]
     }
 }
