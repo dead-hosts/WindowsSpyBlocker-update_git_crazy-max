@@ -195,3 +195,5 @@ client.wns.windows.com                                                          
 ctldl.windowsupdate.com                                                                              Unknown           DNSLOOKUP  200        Fri 04 Oct 00:10:05 UTC 2019
 db3wns2011111.wns.windows.com                                                                        Unknown           DNSLOOKUP  XXX        Fri 04 Oct 00:10:05 UTC 2019
 db5-dspcdn.tlu.dl.delivery.mp.microsoft.com                                                          Unknown           DNSLOOKUP  XXX        Fri 04 Oct 00:10:05 UTC 2019
+db5p.wns.notify.windows.com.akadns.net                                                               Unknown           DNSLOOKUP  XXX        Fri 04 Oct 01:10:28 UTC 2019
+db5p.wns.windows.com                                                                                 Unknown           DNSLOOKUP  XXX        Fri 04 Oct 01:10:28 UTC 2019
