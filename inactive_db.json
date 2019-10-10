@@ -93,6 +93,23 @@
         },
         "1570678089": {
             "array407-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570681511": {
+            "array408-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570681641": {
+            "bl2p.wns.notify.windows.com.akadns.net": "INACTIVE"
+        },
+        "1570681773": {
+            "bl2p.wns.windows.com": "INACTIVE",
+            "blob.sn4prdstr03a.store.core.windows.net": "INACTIVE"
+        },
+        "1570681904": {
+            "client.wns.windows.com": "INACTIVE",
+            "db3wns2011111.wns.windows.com": "INACTIVE"
+        },
+        "1570682035": {
+            "db5-dspcdn.tlu.dl.delivery.mp.microsoft.com": "INACTIVE"
         }
     }
 }
