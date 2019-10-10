@@ -48,6 +48,21 @@
         },
         "1570664472": {
             "db5sch103101711.wns.windows.com": "INACTIVE"
+        },
+        "1570668933": {
+            "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570669064": {
+            "array102-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570669195": {
+            "array103-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570669326": {
+            "array104-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570669457": {
+            "array201-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
