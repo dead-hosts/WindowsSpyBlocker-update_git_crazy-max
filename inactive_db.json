@@ -925,6 +925,21 @@
         },
         "1570896551": {
             "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570900396": {
+            "fe3.delivery.mp.microsoft.com": "INACTIVE"
+        },
+        "1570900527": {
+            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570900668": {
+            "skydrivesync.policies.live.net": "INACTIVE"
+        },
+        "1570900798": {
+            "skydrive.wns.windows.com": "INACTIVE"
+        },
+        "1570900929": {
+            "slscr.update.microsoft.com": "INACTIVE"
         }
     }
 }
