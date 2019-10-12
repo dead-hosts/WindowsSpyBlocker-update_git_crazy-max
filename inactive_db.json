@@ -905,6 +905,26 @@
         },
         "1570893205": {
             "db6sch102091602.wns.windows.com": "INACTIVE"
+        },
+        "1570896025": {
+            "db6sch102091603.wns.windows.com": "INACTIVE"
+        },
+        "1570896156": {
+            "db6sch102091606.wns.windows.com": "INACTIVE"
+        },
+        "1570896287": {
+            "db6sch102091607.wns.windows.com": "INACTIVE",
+            "definitionupdates.microsoft.com": "INACTIVE"
+        },
+        "1570896288": {
+            "displaycatalog.mp.microsoft.com": "INACTIVE",
+            "eaus2watcab01.blob.core.windows.net": "INACTIVE"
+        },
+        "1570896420": {
+            "fe3cr.delivery.mp.microsoft.com": "INACTIVE"
+        },
+        "1570896551": {
+            "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
         }
     }
 }
