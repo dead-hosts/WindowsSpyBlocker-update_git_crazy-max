@@ -79,9 +79,6 @@
         "1570677565": {
             "array403-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
-        "1570677696": {
-            "array404-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
         "1570677827": {
             "array405-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -107,9 +104,6 @@
         },
         "1570682035": {
             "db5-dspcdn.tlu.dl.delivery.mp.microsoft.com": "INACTIVE"
-        },
-        "1570685759": {
-            "db5p.wns.notify.windows.com.akadns.net": "INACTIVE"
         },
         "1570685890": {
             "db5p.wns.windows.com": "INACTIVE"
@@ -191,9 +185,6 @@
         },
         "1570706986": {
             "db5sch101101231.wns.windows.com": "INACTIVE"
-        },
-        "1570707248": {
-            "db5sch101101317.wns.windows.com": "INACTIVE"
         },
         "1570710504": {
             "db5sch101101324.wns.windows.com": "INACTIVE"
@@ -290,9 +281,6 @@
         },
         "1570733811": {
             "db5sch101101837.wns.windows.com": "INACTIVE"
-        },
-        "1570733942": {
-            "db5sch101101844.wns.windows.com": "INACTIVE"
         },
         "1570734074": {
             "db5sch101101902.wns.windows.com": "INACTIVE"
@@ -947,6 +935,18 @@
         },
         "1570905090": {
             "db5sch101101640.wns.windows.com": "INACTIVE"
+        },
+        "1570907920": {
+            "array404-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570908051": {
+            "db5p.wns.notify.windows.com.akadns.net": "INACTIVE"
+        },
+        "1570908182": {
+            "db5sch101101844.wns.windows.com": "INACTIVE"
+        },
+        "1570908313": {
+            "db5sch101101317.wns.windows.com": "INACTIVE"
         }
     }
 }
