@@ -318,9 +318,6 @@
         "1570787753": {
             "db5sch103081913.wns.windows.com": "INACTIVE"
         },
-        "1570791272": {
-            "db5sch103082011.wns.windows.com": "INACTIVE"
-        },
         "1570791403": {
             "db5sch103082111.wns.windows.com": "INACTIVE"
         },
@@ -555,9 +552,6 @@
         "1570877183": {
             "db6sch102090905.wns.windows.com": "INACTIVE"
         },
-        "1570877314": {
-            "db6sch102090907.wns.windows.com": "INACTIVE"
-        },
         "1570877576": {
             "db6sch102090910.wns.windows.com": "INACTIVE"
         },
@@ -638,9 +632,6 @@
             "displaycatalog.mp.microsoft.com": "INACTIVE",
             "eaus2watcab01.blob.core.windows.net": "INACTIVE"
         },
-        "1570896420": {
-            "fe3cr.delivery.mp.microsoft.com": "INACTIVE"
-        },
         "1570896551": {
             "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
         },
@@ -652,9 +643,6 @@
         },
         "1570900668": {
             "skydrivesync.policies.live.net": "INACTIVE"
-        },
-        "1570900798": {
-            "skydrive.wns.windows.com": "INACTIVE"
         },
         "1570900929": {
             "slscr.update.microsoft.com": "INACTIVE"
@@ -948,6 +936,18 @@
         },
         "1570987309": {
             "db5sch101101633.wns.windows.com": "INACTIVE"
+        },
+        "1570991147": {
+            "fe3cr.delivery.mp.microsoft.com": "INACTIVE"
+        },
+        "1570991278": {
+            "db6sch102090907.wns.windows.com": "INACTIVE"
+        },
+        "1570991410": {
+            "db5sch103082011.wns.windows.com": "INACTIVE"
+        },
+        "1570991541": {
+            "skydrive.wns.windows.com": "INACTIVE"
         }
     }
 }
