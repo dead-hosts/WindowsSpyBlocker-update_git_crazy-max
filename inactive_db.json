@@ -31,14 +31,8 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1569945210": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
         "1570664078": {
             "db5sch103101610.wns.windows.com": "INACTIVE"
-        },
-        "1570664209": {
-            "db5sch103101611.wns.windows.com": "INACTIVE"
         },
         "1570664340": {
             "db5sch103101705.wns.windows.com": "INACTIVE"
@@ -186,9 +180,6 @@
         "1570729918": {
             "db5sch101101826.wns.windows.com": "INACTIVE"
         },
-        "1570733549": {
-            "db5sch101101828.wns.windows.com": "INACTIVE"
-        },
         "1570733680": {
             "db5sch101101835.wns.windows.com": "INACTIVE"
         },
@@ -218,9 +209,6 @@
         },
         "1570741799": {
             "db5sch101102019.wns.windows.com": "INACTIVE"
-        },
-        "1570745048": {
-            "db5sch101102025.wns.windows.com": "INACTIVE"
         },
         "1570745310": {
             "db5sch101102033.wns.windows.com": "INACTIVE"
@@ -257,9 +245,6 @@
         },
         "1570753444": {
             "db5sch101110315.wns.windows.com": "INACTIVE"
-        },
-        "1570756759": {
-            "db5sch101110325.wns.windows.com": "INACTIVE"
         },
         "1570756890": {
             "db5sch101110328.wns.windows.com": "INACTIVE"
@@ -950,6 +935,19 @@
         },
         "1570978588": {
             "db5sch101110810.wns.windows.com": "INACTIVE"
+        },
+        "1570982836": {
+            "db5sch101101828.wns.windows.com": "INACTIVE"
+        },
+        "1570982967": {
+            "db5sch101102025.wns.windows.com": "INACTIVE"
+        },
+        "1570983098": {
+            "db5sch101110325.wns.windows.com": "INACTIVE",
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1570983229": {
+            "db5sch103101611.wns.windows.com": "INACTIVE"
         }
     }
 }
