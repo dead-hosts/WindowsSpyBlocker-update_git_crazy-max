@@ -67,9 +67,6 @@
         "1570678089": {
             "array407-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
-        "1570681511": {
-            "array408-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
         "1570681641": {
             "bl2p.wns.notify.windows.com.akadns.net": "INACTIVE"
         },
@@ -167,9 +164,6 @@
         },
         "1570726127": {
             "db5sch101101631.wns.windows.com": "INACTIVE"
-        },
-        "1570726259": {
-            "db5sch101101633.wns.windows.com": "INACTIVE"
         },
         "1570726652": {
             "db5sch101101722.wns.windows.com": "INACTIVE"
@@ -269,9 +263,6 @@
         },
         "1570767969": {
             "db5sch101110527.wns.windows.com": "INACTIVE"
-        },
-        "1570768100": {
-            "db5sch101110533.wns.windows.com": "INACTIVE"
         },
         "1570768231": {
             "db5sch101110618.wns.windows.com": "INACTIVE"
@@ -402,9 +393,6 @@
         "1570823565": {
             "db5sch103092108.wns.windows.com": "INACTIVE"
         },
-        "1570823696": {
-            "db5sch103092109.wns.windows.com": "INACTIVE"
-        },
         "1570823827": {
             "db5sch103092209.wns.windows.com": "INACTIVE"
         },
@@ -479,9 +467,6 @@
         },
         "1570851094": {
             "db5wns1d.wns.windows.com": "INACTIVE"
-        },
-        "1570851225": {
-            "db5.wns.windows.com": "INACTIVE"
         },
         "1570854557": {
             "db6sch102090104.wns.windows.com": "INACTIVE"
@@ -948,6 +933,21 @@
         },
         "1570983229": {
             "db5sch103101611.wns.windows.com": "INACTIVE"
+        },
+        "1570986785": {
+            "db5sch101110533.wns.windows.com": "INACTIVE"
+        },
+        "1570986916": {
+            "db5sch103092109.wns.windows.com": "INACTIVE"
+        },
+        "1570987047": {
+            "db5.wns.windows.com": "INACTIVE"
+        },
+        "1570987178": {
+            "array408-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1570987309": {
+            "db5sch101101633.wns.windows.com": "INACTIVE"
         }
     }
 }
