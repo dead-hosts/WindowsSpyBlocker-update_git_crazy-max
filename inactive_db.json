@@ -147,9 +147,6 @@
         "1570702561": {
             "db5sch101101129.wns.windows.com": "INACTIVE"
         },
-        "1570702692": {
-            "db5sch101101133.wns.windows.com": "INACTIVE"
-        },
         "1570702823": {
             "db5sch101101145.wns.windows.com": "INACTIVE"
         },
@@ -408,9 +405,6 @@
         "1570779834": {
             "db5sch101110821.wns.windows.com": "INACTIVE"
         },
-        "1570779965": {
-            "db5sch101110822.wns.windows.com": "INACTIVE"
-        },
         "1570780096": {
             "db5sch101110825.wns.windows.com": "INACTIVE"
         },
@@ -503,9 +497,6 @@
         },
         "1570810437": {
             "db5sch103091108.wns.windows.com": "INACTIVE"
-        },
-        "1570810568": {
-            "db5sch103091212.wns.windows.com": "INACTIVE"
         },
         "1570814632": {
             "db5sch103091311.wns.windows.com": "INACTIVE"
@@ -611,9 +602,6 @@
         },
         "1570843678": {
             "db5sch103102112.wns.windows.com": "INACTIVE"
-        },
-        "1570843809": {
-            "db5sch103102203.wns.windows.com": "INACTIVE"
         },
         "1570843940": {
             "db5sch103102209.wns.windows.com": "INACTIVE"
@@ -947,6 +935,21 @@
         },
         "1570928453": {
             "db5sch101101511.wns.windows.com": "INACTIVE"
+        },
+        "1570932015": {
+            "fg.v4.download.windowsupdate.com": "INACTIVE"
+        },
+        "1570932286": {
+            "db5sch103091212.wns.windows.com": "INACTIVE"
+        },
+        "1570932417": {
+            "db5sch103102203.wns.windows.com": "INACTIVE"
+        },
+        "1570932548": {
+            "db5sch101101133.wns.windows.com": "INACTIVE"
+        },
+        "1570932679": {
+            "db5sch101110822.wns.windows.com": "INACTIVE"
         }
     }
 }
