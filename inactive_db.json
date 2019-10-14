@@ -37,9 +37,6 @@
         "1570668933": {
             "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
-        "1570669195": {
-            "array103-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
         "1570673670": {
             "array202-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -215,9 +212,6 @@
         "1570791534": {
             "db5sch103082308.wns.windows.com": "INACTIVE"
         },
-        "1570791796": {
-            "db5sch103082409.wns.windows.com": "INACTIVE"
-        },
         "1570796743": {
             "db5sch103082609.wns.windows.com": "INACTIVE"
         },
@@ -377,9 +371,6 @@
         "1570873227": {
             "db6sch102090613.wns.windows.com": "INACTIVE"
         },
-        "1570873752": {
-            "db6sch102090902.wns.windows.com": "INACTIVE"
-        },
         "1570877183": {
             "db6sch102090905.wns.windows.com": "INACTIVE"
         },
@@ -397,9 +388,6 @@
         },
         "1570880567": {
             "db6sch102091008.wns.windows.com": "INACTIVE"
-        },
-        "1570880698": {
-            "db6sch102091009.wns.windows.com": "INACTIVE"
         },
         "1570880829": {
             "db6sch102091011.wns.windows.com": "INACTIVE"
@@ -606,9 +594,6 @@
         },
         "1570952798": {
             "db5sch103102410.wns.windows.com": "INACTIVE"
-        },
-        "1570952929": {
-            "db5sch101101338.wns.windows.com": "INACTIVE"
         },
         "1570956790": {
             "db5sch101110518.wns.windows.com": "INACTIVE"
@@ -950,6 +935,21 @@
         },
         "1571054171": {
             "db5sch101101519.wns.windows.com": "INACTIVE"
+        },
+        "1571057309": {
+            "db6sch102090902.wns.windows.com": "INACTIVE"
+        },
+        "1571057441": {
+            "db5sch103082409.wns.windows.com": "INACTIVE"
+        },
+        "1571057572": {
+            "db5sch101101338.wns.windows.com": "INACTIVE"
+        },
+        "1571057703": {
+            "array103-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571057834": {
+            "db6sch102091009.wns.windows.com": "INACTIVE"
         }
     }
 }
