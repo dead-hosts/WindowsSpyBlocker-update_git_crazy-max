@@ -52,9 +52,6 @@
         "1570674064": {
             "array401-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
-        "1570681641": {
-            "bl2p.wns.notify.windows.com.akadns.net": "INACTIVE"
-        },
         "1570681773": {
             "bl2p.wns.windows.com": "INACTIVE",
             "blob.sn4prdstr03a.store.core.windows.net": "INACTIVE"
@@ -166,12 +163,6 @@
         },
         "1570757152": {
             "db5sch101110341.wns.windows.com": "INACTIVE"
-        },
-        "1570760499": {
-            "db5sch101110345.wns.windows.com": "INACTIVE"
-        },
-        "1570760893": {
-            "db5sch101110419.wns.windows.com": "INACTIVE"
         },
         "1570764121": {
             "db5sch101110428.wns.windows.com": "INACTIVE"
@@ -310,9 +301,6 @@
         },
         "1570835818": {
             "db5sch103101212.wns.windows.com": "INACTIVE"
-        },
-        "1570835949": {
-            "db5sch103101314.wns.windows.com": "INACTIVE"
         },
         "1570839409": {
             "db5sch103101411.wns.windows.com": "INACTIVE"
@@ -579,9 +567,6 @@
         },
         "1570936877": {
             "array402-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1570937139": {
-            "db5sch101101333.wns.windows.com": "INACTIVE"
         },
         "1570940814": {
             "db5sch101110438.wns.windows.com": "INACTIVE"
@@ -950,6 +935,21 @@
         },
         "1571046430": {
             "array201-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571049969": {
+            "db5sch101101333.wns.windows.com": "INACTIVE"
+        },
+        "1571050100": {
+            "db5sch101110419.wns.windows.com": "INACTIVE"
+        },
+        "1571050231": {
+            "db5sch101110345.wns.windows.com": "INACTIVE"
+        },
+        "1571050362": {
+            "bl2p.wns.notify.windows.com.akadns.net": "INACTIVE"
+        },
+        "1571050493": {
+            "db5sch103101314.wns.windows.com": "INACTIVE"
         }
     }
 }
