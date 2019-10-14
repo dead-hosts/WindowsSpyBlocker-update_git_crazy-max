@@ -194,9 +194,6 @@
         "1570764645": {
             "db5sch101110501.wns.windows.com": "INACTIVE"
         },
-        "1570767969": {
-            "db5sch101110527.wns.windows.com": "INACTIVE"
-        },
         "1570768231": {
             "db5sch101110618.wns.windows.com": "INACTIVE"
         },
@@ -299,14 +296,8 @@
         "1570815025": {
             "db5sch103091511.wns.windows.com": "INACTIVE"
         },
-        "1570815156": {
-            "db5sch103091609.wns.windows.com": "INACTIVE"
-        },
         "1570819324": {
             "db5sch103091817.wns.windows.com": "INACTIVE"
-        },
-        "1570819455": {
-            "db5sch103091908.wns.windows.com": "INACTIVE"
         },
         "1570823434": {
             "db5sch103092010.wns.windows.com": "INACTIVE"
@@ -398,9 +389,6 @@
         "1570859428": {
             "db6sch102090210.wns.windows.com": "INACTIVE"
         },
-        "1570862083": {
-            "db6sch102090212.wns.windows.com": "INACTIVE"
-        },
         "1570862214": {
             "db6sch102090305.wns.windows.com": "INACTIVE"
         },
@@ -484,9 +472,6 @@
         },
         "1570892812": {
             "db6sch102091503.wns.windows.com": "INACTIVE"
-        },
-        "1570892943": {
-            "db6sch102091507.wns.windows.com": "INACTIVE"
         },
         "1570893074": {
             "db6sch102091508.wns.windows.com": "INACTIVE"
@@ -947,6 +932,24 @@
         },
         "1571031253": {
             "db6sch102090810.wns.windows.com": "INACTIVE"
+        },
+        "1571034592": {
+            "v4.download.windowsupdate.com": "INACTIVE"
+        },
+        "1571034722": {
+            "db5sch101110527.wns.windows.com": "INACTIVE"
+        },
+        "1571034853": {
+            "db6sch102091507.wns.windows.com": "INACTIVE"
+        },
+        "1571034984": {
+            "db6sch102090212.wns.windows.com": "INACTIVE"
+        },
+        "1571035115": {
+            "db5sch103091609.wns.windows.com": "INACTIVE"
+        },
+        "1571035246": {
+            "db5sch103091908.wns.windows.com": "INACTIVE"
         }
     }
 }
