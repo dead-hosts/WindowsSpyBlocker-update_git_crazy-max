@@ -49,9 +49,6 @@
         "1570674064": {
             "array401-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
-        "1570681773": {
-            "blob.sn4prdstr03a.store.core.windows.net": "INACTIVE"
-        },
         "1570682035": {
             "db5-dspcdn.tlu.dl.delivery.mp.microsoft.com": "INACTIVE"
         },
@@ -120,9 +117,6 @@
         },
         "1570772185": {
             "db5sch101110626.wns.windows.com": "INACTIVE"
-        },
-        "1570772316": {
-            "db5sch101110634.wns.windows.com": "INACTIVE"
         },
         "1570776061": {
             "db5sch101110705.wns.windows.com": "INACTIVE"
@@ -259,9 +253,6 @@
         "1570892812": {
             "db6sch102091503.wns.windows.com": "INACTIVE"
         },
-        "1570893074": {
-            "db6sch102091508.wns.windows.com": "INACTIVE"
-        },
         "1570893205": {
             "db6sch102091602.wns.windows.com": "INACTIVE"
         },
@@ -368,9 +359,6 @@
         "1570960202": {
             "db5sch101110343.wns.windows.com": "INACTIVE"
         },
-        "1570960333": {
-            "db6sch102090211.wns.windows.com": "INACTIVE"
-        },
         "1570960464": {
             "db5sch103101208.wns.windows.com": "INACTIVE"
         },
@@ -388,9 +376,6 @@
         },
         "1570969999": {
             "db5sch101101629.wns.windows.com": "INACTIVE"
-        },
-        "1570970130": {
-            "db5sch101101910.wns.windows.com": "INACTIVE"
         },
         "1570974300": {
             "db5sch103102009.wns.windows.com": "INACTIVE"
@@ -657,9 +642,6 @@
         },
         "1571057834": {
             "db6sch102091009.wns.windows.com": "INACTIVE"
-        },
-        "1571061433": {
-            "bl2p.wns.windows.com": "INACTIVE"
         },
         "1571061563": {
             "db5sch103100121.wns.windows.com": "INACTIVE"
@@ -952,6 +934,22 @@
         },
         "1571148756": {
             "db5sch103100412.wns.windows.com": "INACTIVE"
+        },
+        "1571152762": {
+            "blob.sn4prdstr03a.store.core.windows.net": "INACTIVE",
+            "db6sch102091508.wns.windows.com": "INACTIVE"
+        },
+        "1571152893": {
+            "db5sch101101910.wns.windows.com": "INACTIVE"
+        },
+        "1571153024": {
+            "db6sch102090211.wns.windows.com": "INACTIVE"
+        },
+        "1571153155": {
+            "db5sch101110634.wns.windows.com": "INACTIVE"
+        },
+        "1571153286": {
+            "bl2p.wns.windows.com": "INACTIVE"
         }
     }
 }
