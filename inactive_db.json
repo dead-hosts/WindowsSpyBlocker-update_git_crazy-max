@@ -229,9 +229,6 @@
         "1570843940": {
             "db5sch103102209.wns.windows.com": "INACTIVE"
         },
-        "1570844071": {
-            "db5sch103102310.wns.windows.com": "INACTIVE"
-        },
         "1570846953": {
             "db5sch103102516.wns.windows.com": "INACTIVE"
         },
@@ -277,9 +274,6 @@
         "1570884527": {
             "db6sch102091103.wns.windows.com": "INACTIVE"
         },
-        "1570884789": {
-            "db6sch102091204.wns.windows.com": "INACTIVE"
-        },
         "1570884921": {
             "db6sch102091205.wns.windows.com": "INACTIVE"
         },
@@ -305,8 +299,7 @@
             "db6sch102091603.wns.windows.com": "INACTIVE"
         },
         "1570896287": {
-            "db6sch102091607.wns.windows.com": "INACTIVE",
-            "definitionupdates.microsoft.com": "INACTIVE"
+            "db6sch102091607.wns.windows.com": "INACTIVE"
         },
         "1570896288": {
             "displaycatalog.mp.microsoft.com": "INACTIVE",
@@ -377,12 +370,6 @@
         },
         "1570936746": {
             "db5sch103100712.wns.windows.com": "INACTIVE"
-        },
-        "1570936877": {
-            "array402-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1570940945": {
-            "db5sch101101529.wns.windows.com": "INACTIVE"
         },
         "1570941077": {
             "db5sch103082406.wns.windows.com": "INACTIVE"
@@ -477,9 +464,6 @@
         "1570983098": {
             "db5sch101110325.wns.windows.com": "INACTIVE",
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1570983229": {
-            "db5sch103101611.wns.windows.com": "INACTIVE"
         },
         "1570986916": {
             "db5sch103092109.wns.windows.com": "INACTIVE"
@@ -952,6 +936,22 @@
         },
         "1571125937": {
             "db5p.wns.notify.windows.com.akadns.net": "INACTIVE"
+        },
+        "1571129185": {
+            "db5sch101101529.wns.windows.com": "INACTIVE"
+        },
+        "1571129316": {
+            "array402-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571129447": {
+            "db5sch103101611.wns.windows.com": "INACTIVE"
+        },
+        "1571129578": {
+            "db6sch102091204.wns.windows.com": "INACTIVE",
+            "definitionupdates.microsoft.com": "INACTIVE"
+        },
+        "1571129709": {
+            "db5sch103102310.wns.windows.com": "INACTIVE"
         }
     }
 }
