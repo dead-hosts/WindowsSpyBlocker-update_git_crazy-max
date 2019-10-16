@@ -49,9 +49,6 @@
         "1570674064": {
             "array401-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
-        "1570682035": {
-            "db5-dspcdn.tlu.dl.delivery.mp.microsoft.com": "INACTIVE"
-        },
         "1570686153": {
             "db5sch101100127.wns.windows.com": "INACTIVE"
         },
@@ -263,9 +260,6 @@
         "1570900396": {
             "fe3.delivery.mp.microsoft.com": "INACTIVE"
         },
-        "1570900527": {
-            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
         "1570900668": {
             "skydrivesync.policies.live.net": "INACTIVE"
         },
@@ -368,9 +362,6 @@
         "1570974300": {
             "db5sch103102009.wns.windows.com": "INACTIVE"
         },
-        "1570974431": {
-            "db5sch101101334.wns.windows.com": "INACTIVE"
-        },
         "1570974693": {
             "db5sch101110829.wns.windows.com": "INACTIVE"
         },
@@ -449,9 +440,6 @@
         },
         "1571004061": {
             "db5sch101100917.wns.windows.com": "INACTIVE"
-        },
-        "1571007544": {
-            "db5sch101101001.wns.windows.com": "INACTIVE"
         },
         "1571007675": {
             "db5sch103100511.wns.windows.com": "INACTIVE"
@@ -950,6 +938,18 @@
         },
         "1571258439": {
             "db5sch103102203.wns.windows.com": "INACTIVE"
+        },
+        "1571262673": {
+            "db5sch101101334.wns.windows.com": "INACTIVE"
+        },
+        "1571262804": {
+            "db5sch101101001.wns.windows.com": "INACTIVE"
+        },
+        "1571262935": {
+            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571263066": {
+            "db5-dspcdn.tlu.dl.delivery.mp.microsoft.com": "INACTIVE"
         }
     }
 }
