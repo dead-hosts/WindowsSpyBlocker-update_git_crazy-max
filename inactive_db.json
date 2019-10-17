@@ -31,9 +31,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1570664078": {
-            "db5sch103101610.wns.windows.com": "INACTIVE"
-        },
         "1570673670": {
             "array202-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -369,9 +366,6 @@
         "1570991410": {
             "db5sch103082011.wns.windows.com": "INACTIVE"
         },
-        "1570991541": {
-            "skydrive.wns.windows.com": "INACTIVE"
-        },
         "1570995140": {
             "db5sch101101835.wns.windows.com": "INACTIVE"
         },
@@ -651,9 +645,6 @@
         "1571088870": {
             "db5sch101100122.wns.windows.com": "INACTIVE"
         },
-        "1571089001": {
-            "db5sch101110510.wns.windows.com": "INACTIVE"
-        },
         "1571089132": {
             "db5sch101101022.wns.windows.com": "INACTIVE"
         },
@@ -701,9 +692,6 @@
         },
         "1571104999": {
             "db5sch103091108.wns.windows.com": "INACTIVE"
-        },
-        "1571105131": {
-            "db6sch102091307.wns.windows.com": "INACTIVE"
         },
         "1571105262": {
             "db5sch103102609.wns.windows.com": "INACTIVE"
@@ -798,9 +786,6 @@
         },
         "1571133598": {
             "db5sch103091908.wns.windows.com": "INACTIVE"
-        },
-        "1571139211": {
-            "db5sch101101631.wns.windows.com": "INACTIVE"
         },
         "1571139342": {
             "db5sch101102033.wns.windows.com": "INACTIVE"
@@ -947,6 +932,21 @@
         },
         "1571286561": {
             "db5sch101101902.wns.windows.com": "INACTIVE"
+        },
+        "1571290005": {
+            "db6sch102091307.wns.windows.com": "INACTIVE"
+        },
+        "1571290136": {
+            "db5sch101101631.wns.windows.com": "INACTIVE"
+        },
+        "1571290267": {
+            "skydrive.wns.windows.com": "INACTIVE"
+        },
+        "1571290398": {
+            "db5sch101110510.wns.windows.com": "INACTIVE"
+        },
+        "1571290529": {
+            "db5sch103101610.wns.windows.com": "INACTIVE"
         }
     }
 }
