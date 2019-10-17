@@ -73,9 +73,6 @@
         "1570718502": {
             "db5sch101101535.wns.windows.com": "INACTIVE"
         },
-        "1570737677": {
-            "db5sch101101907.wns.windows.com": "INACTIVE"
-        },
         "1570741668": {
             "db5sch101102017.wns.windows.com": "INACTIVE"
         },
@@ -275,9 +272,6 @@
         "1570948609": {
             "db5sch101101739.wns.windows.com": "INACTIVE"
         },
-        "1570956921": {
-            "array104-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
         "1570957184": {
             "db5sch101102023.wns.windows.com": "INACTIVE"
         },
@@ -324,7 +318,6 @@
             "db5sch101101828.wns.windows.com": "INACTIVE"
         },
         "1570983098": {
-            "db5sch101110325.wns.windows.com": "INACTIVE",
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
         },
         "1570987047": {
@@ -356,9 +349,6 @@
         },
         "1570999927": {
             "db5sch103101705.wns.windows.com": "INACTIVE"
-        },
-        "1571003537": {
-            "db6sch102090811.wns.windows.com": "INACTIVE"
         },
         "1571003668": {
             "db5sch101110109.wns.windows.com": "INACTIVE"
@@ -467,9 +457,6 @@
         },
         "1571042714": {
             "db5sch103090608.wns.windows.com": "INACTIVE"
-        },
-        "1571042845": {
-            "db5sch101110821.wns.windows.com": "INACTIVE"
         },
         "1571046036": {
             "db5sch101101324.wns.windows.com": "INACTIVE"
@@ -949,6 +936,21 @@
         },
         "1571309794": {
             "db5sch101101129.wns.windows.com": "INACTIVE"
+        },
+        "1571313323": {
+            "db5sch101110821.wns.windows.com": "INACTIVE"
+        },
+        "1571313454": {
+            "db6sch102090811.wns.windows.com": "INACTIVE"
+        },
+        "1571313586": {
+            "db5sch101110325.wns.windows.com": "INACTIVE"
+        },
+        "1571313717": {
+            "db5sch101101907.wns.windows.com": "INACTIVE"
+        },
+        "1571313848": {
+            "array104-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
