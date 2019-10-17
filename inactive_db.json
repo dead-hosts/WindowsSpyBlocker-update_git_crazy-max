@@ -136,9 +136,6 @@
         "1570801258": {
             "db5sch103090414.wns.windows.com": "INACTIVE"
         },
-        "1570805938": {
-            "db5sch103090814.wns.windows.com": "INACTIVE"
-        },
         "1570810043": {
             "db5sch103091011.wns.windows.com": "INACTIVE"
         },
@@ -159,9 +156,6 @@
         },
         "1570823958": {
             "db5sch103092210.wns.windows.com": "INACTIVE"
-        },
-        "1570831774": {
-            "db5sch103100510.wns.windows.com": "INACTIVE"
         },
         "1570832036": {
             "db5sch103100611.wns.windows.com": "INACTIVE"
@@ -275,9 +269,6 @@
         "1570928322": {
             "db5sch101101125.wns.windows.com": "INACTIVE"
         },
-        "1570932015": {
-            "fg.v4.download.windowsupdate.com": "INACTIVE"
-        },
         "1570932679": {
             "db5sch101110822.wns.windows.com": "INACTIVE"
         },
@@ -362,9 +353,6 @@
         "1570983098": {
             "db5sch101110325.wns.windows.com": "INACTIVE",
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1570986916": {
-            "db5sch103092109.wns.windows.com": "INACTIVE"
         },
         "1570987047": {
             "db5.wns.windows.com": "INACTIVE"
@@ -750,9 +738,6 @@
         "1571117258": {
             "db6sch102091412.wns.windows.com": "INACTIVE"
         },
-        "1571117389": {
-            "db5sch101101902.wns.windows.com": "INACTIVE"
-        },
         "1571117520": {
             "db5sch103101513.wns.windows.com": "INACTIVE"
         },
@@ -950,6 +935,18 @@
         },
         "1571282854": {
             "db5sch101110341.wns.windows.com": "INACTIVE"
+        },
+        "1571286168": {
+            "db5sch103090814.wns.windows.com": "INACTIVE"
+        },
+        "1571286299": {
+            "db5sch103092109.wns.windows.com": "INACTIVE"
+        },
+        "1571286430": {
+            "db5sch103100510.wns.windows.com": "INACTIVE"
+        },
+        "1571286561": {
+            "db5sch101101902.wns.windows.com": "INACTIVE"
         }
     }
 }
