@@ -31,225 +31,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1571266380": {
-            "db5sch101110729.wns.windows.com": "INACTIVE"
-        },
-        "1571266511": {
-            "db5sch103102711.wns.windows.com": "INACTIVE"
-        },
-        "1571266642": {
-            "fe3cr.delivery.mp.microsoft.com": "INACTIVE"
-        },
-        "1571266773": {
-            "db5sch103082409.wns.windows.com": "INACTIVE"
-        },
-        "1571266904": {
-            "db5sch101110108.wns.windows.com": "INACTIVE"
-        },
-        "1571278241": {
-            "db5sch103082308.wns.windows.com": "INACTIVE"
-        },
-        "1571278372": {
-            "db5sch103102805.wns.windows.com": "INACTIVE"
-        },
-        "1571278503": {
-            "db5sch101101511.wns.windows.com": "INACTIVE"
-        },
-        "1571278634": {
-            "db6sch102091507.wns.windows.com": "INACTIVE"
-        },
-        "1571282330": {
-            "db5sch101110501.wns.windows.com": "INACTIVE"
-        },
-        "1571282461": {
-            "db5sch101101133.wns.windows.com": "INACTIVE"
-        },
-        "1571282592": {
-            "db5sch101101837.wns.windows.com": "INACTIVE"
-        },
-        "1571282723": {
-            "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1571282854": {
-            "db5sch101110341.wns.windows.com": "INACTIVE"
-        },
-        "1571286168": {
-            "db5sch103090814.wns.windows.com": "INACTIVE"
-        },
-        "1571286299": {
-            "db5sch103092109.wns.windows.com": "INACTIVE"
-        },
-        "1571286430": {
-            "db5sch103100510.wns.windows.com": "INACTIVE"
-        },
-        "1571286561": {
-            "db5sch101101902.wns.windows.com": "INACTIVE"
-        },
-        "1571290005": {
-            "db6sch102091307.wns.windows.com": "INACTIVE"
-        },
-        "1571290136": {
-            "db5sch101101631.wns.windows.com": "INACTIVE"
-        },
-        "1571290267": {
-            "skydrive.wns.windows.com": "INACTIVE"
-        },
-        "1571290398": {
-            "db5sch101110510.wns.windows.com": "INACTIVE"
-        },
-        "1571290529": {
-            "db5sch103101610.wns.windows.com": "INACTIVE"
-        },
-        "1571294059": {
-            "db5sch103102610.wns.windows.com": "INACTIVE"
-        },
-        "1571294190": {
-            "array201-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1571294321": {
-            "db5sch103091011.wns.windows.com": "INACTIVE"
-        },
-        "1571294452": {
-            "db5sch103082712.wns.windows.com": "INACTIVE"
-        },
-        "1571297905": {
-            "db5sch103082709.wns.windows.com": "INACTIVE"
-        },
-        "1571298036": {
-            "db5sch101101722.wns.windows.com": "INACTIVE"
-        },
-        "1571298167": {
-            "db5sch103100511.wns.windows.com": "INACTIVE"
-        },
-        "1571298298": {
-            "db5sch101110621.wns.windows.com": "INACTIVE"
-        },
-        "1571298429": {
-            "db5sch101102019.wns.windows.com": "INACTIVE"
-        },
-        "1571301824": {
-            "db5sch103081814.wns.windows.com": "INACTIVE"
-        },
-        "1571301955": {
-            "db5sch101101237.wns.windows.com": "INACTIVE"
-        },
-        "1571302086": {
-            "db5sch101100831.wns.windows.com": "INACTIVE"
-        },
-        "1571302217": {
-            "array404-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1571305366": {
-            "db5sch101101519.wns.windows.com": "INACTIVE"
-        },
-        "1571305497": {
-            "db5sch101101426.wns.windows.com": "INACTIVE"
-        },
-        "1571305628": {
-            "db5sch101102032.wns.windows.com": "INACTIVE"
-        },
-        "1571305759": {
-            "db6sch102090504.wns.windows.com": "INACTIVE"
-        },
-        "1571305890": {
-            "db5sch101101419.wns.windows.com": "INACTIVE"
-        },
-        "1571309401": {
-            "db5sch103102410.wns.windows.com": "INACTIVE"
-        },
-        "1571309532": {
-            "db5sch101110828.wns.windows.com": "INACTIVE"
-        },
-        "1571309663": {
-            "db5sch103082011.wns.windows.com": "INACTIVE"
-        },
-        "1571309794": {
-            "db5sch101101129.wns.windows.com": "INACTIVE"
-        },
-        "1571313323": {
-            "db5sch101110821.wns.windows.com": "INACTIVE"
-        },
-        "1571313454": {
-            "db6sch102090811.wns.windows.com": "INACTIVE"
-        },
-        "1571313586": {
-            "db5sch101110325.wns.windows.com": "INACTIVE"
-        },
-        "1571313717": {
-            "db5sch101101907.wns.windows.com": "INACTIVE"
-        },
-        "1571313848": {
-            "array104-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1571317332": {
-            "fg.v4.download.windowsupdate.com": "INACTIVE"
-        },
-        "1571317602": {
-            "db6sch102090619.wns.windows.com": "INACTIVE"
-        },
-        "1571317733": {
-            "db5sch103090806.wns.windows.com": "INACTIVE"
-        },
-        "1571317864": {
-            "db5sch103100314.wns.windows.com": "INACTIVE"
-        },
-        "1571317995": {
-            "db5sch103091617.wns.windows.com": "INACTIVE"
-        },
-        "1571321195": {
-            "db5sch101110822.wns.windows.com": "INACTIVE"
-        },
-        "1571321326": {
-            "db5sch103090906.wns.windows.com": "INACTIVE"
-        },
-        "1571321457": {
-            "db5sch103100611.wns.windows.com": "INACTIVE"
-        },
-        "1571321588": {
-            "db6sch102090514.wns.windows.com": "INACTIVE"
-        },
-        "1571321720": {
-            "db5sch101110919.wns.windows.com": "INACTIVE"
-        },
-        "1571329897": {
-            "db6sch102090905.wns.windows.com": "INACTIVE"
-        },
-        "1571330028": {
-            "db5sch103101413.wns.windows.com": "INACTIVE"
-        },
-        "1571330159": {
-            "db5sch101100925.wns.windows.com": "INACTIVE"
-        },
-        "1571330290": {
-            "db6sch102091011.wns.windows.com": "INACTIVE"
-        },
-        "1571333410": {
-            "db5sch101110825.wns.windows.com": "INACTIVE"
-        },
-        "1571333542": {
-            "db5sch103102710.wns.windows.com": "INACTIVE"
-        },
-        "1571333673": {
-            "db5sch101110419.wns.windows.com": "INACTIVE"
-        },
-        "1571333804": {
-            "db5sch103102609.wns.windows.com": "INACTIVE"
-        },
-        "1571333935": {
-            "db5sch101101022.wns.windows.com": "INACTIVE"
-        },
-        "1571337247": {
-            "db6sch102090211.wns.windows.com": "INACTIVE"
-        },
-        "1571337379": {
-            "db6sch102090109.wns.windows.com": "INACTIVE"
-        },
-        "1571337510": {
-            "db5sch101110225.wns.windows.com": "INACTIVE"
-        },
-        "1571337641": {
-            "db5sch101101914.wns.windows.com": "INACTIVE"
-        },
         "1571349694": {
             "00001b-1.l.windowsupdate.com": "INVALID",
             "array102-prod.do.dsp.mp.microsoft.com": "INVALID",
@@ -509,6 +290,226 @@
             "statsfe2.update.microsoft.com.akadns.net": "INVALID",
             "tsfe.trafficshaping.dsp.mp.microsoft.com": "INVALID",
             "v4.download.windowsupdate.com": "INVALID"
+        },
+        "1571432334": {
+            "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571432340": {
+            "array104-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571432346": {
+            "array201-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571432352": {
+            "array404-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571432360": {
+            "db5sch101100831.wns.windows.com": "INACTIVE"
+        },
+        "1571432367": {
+            "db5sch101100925.wns.windows.com": "INACTIVE"
+        },
+        "1571432373": {
+            "db5sch101101022.wns.windows.com": "INACTIVE"
+        },
+        "1571432379": {
+            "db5sch101101129.wns.windows.com": "INACTIVE"
+        },
+        "1571432385": {
+            "db5sch101101133.wns.windows.com": "INACTIVE"
+        },
+        "1571432391": {
+            "db5sch101101237.wns.windows.com": "INACTIVE"
+        },
+        "1571432397": {
+            "db5sch101101419.wns.windows.com": "INACTIVE"
+        },
+        "1571432403": {
+            "db5sch101101426.wns.windows.com": "INACTIVE"
+        },
+        "1571432409": {
+            "db5sch101101511.wns.windows.com": "INACTIVE"
+        },
+        "1571432415": {
+            "db5sch101101519.wns.windows.com": "INACTIVE"
+        },
+        "1571432421": {
+            "db5sch101101631.wns.windows.com": "INACTIVE"
+        },
+        "1571432427": {
+            "db5sch101101722.wns.windows.com": "INACTIVE"
+        },
+        "1571432433": {
+            "db5sch101101837.wns.windows.com": "INACTIVE"
+        },
+        "1571432440": {
+            "db5sch101101902.wns.windows.com": "INACTIVE"
+        },
+        "1571432446": {
+            "db5sch101101907.wns.windows.com": "INACTIVE"
+        },
+        "1571432452": {
+            "db5sch101101914.wns.windows.com": "INACTIVE"
+        },
+        "1571432458": {
+            "db5sch101102019.wns.windows.com": "INACTIVE"
+        },
+        "1571432464": {
+            "db5sch101102032.wns.windows.com": "INACTIVE"
+        },
+        "1571432470": {
+            "db5sch101110108.wns.windows.com": "INACTIVE"
+        },
+        "1571432476": {
+            "db5sch101110225.wns.windows.com": "INACTIVE"
+        },
+        "1571432482": {
+            "db5sch101110325.wns.windows.com": "INACTIVE"
+        },
+        "1571432488": {
+            "db5sch101110341.wns.windows.com": "INACTIVE"
+        },
+        "1571432494": {
+            "db5sch101110419.wns.windows.com": "INACTIVE"
+        },
+        "1571432500": {
+            "db5sch101110501.wns.windows.com": "INACTIVE"
+        },
+        "1571432506": {
+            "db5sch101110510.wns.windows.com": "INACTIVE"
+        },
+        "1571432513": {
+            "db5sch101110621.wns.windows.com": "INACTIVE"
+        },
+        "1571432519": {
+            "db5sch101110729.wns.windows.com": "INACTIVE"
+        },
+        "1571432525": {
+            "db5sch101110821.wns.windows.com": "INACTIVE"
+        },
+        "1571432531": {
+            "db5sch101110822.wns.windows.com": "INACTIVE"
+        },
+        "1571432537": {
+            "db5sch101110825.wns.windows.com": "INACTIVE"
+        },
+        "1571432543": {
+            "db5sch101110828.wns.windows.com": "INACTIVE"
+        },
+        "1571432549": {
+            "db5sch101110919.wns.windows.com": "INACTIVE"
+        },
+        "1571432555": {
+            "db5sch103081814.wns.windows.com": "INACTIVE"
+        },
+        "1571432561": {
+            "db5sch103082011.wns.windows.com": "INACTIVE"
+        },
+        "1571432567": {
+            "db5sch103082308.wns.windows.com": "INACTIVE"
+        },
+        "1571432573": {
+            "db5sch103082409.wns.windows.com": "INACTIVE"
+        },
+        "1571432579": {
+            "db5sch103082709.wns.windows.com": "INACTIVE"
+        },
+        "1571432585": {
+            "db5sch103082712.wns.windows.com": "INACTIVE"
+        },
+        "1571432592": {
+            "db5sch103090806.wns.windows.com": "INACTIVE"
+        },
+        "1571432598": {
+            "db5sch103090814.wns.windows.com": "INACTIVE"
+        },
+        "1571432604": {
+            "db5sch103090906.wns.windows.com": "INACTIVE"
+        },
+        "1571432610": {
+            "db5sch103091011.wns.windows.com": "INACTIVE"
+        },
+        "1571432616": {
+            "db5sch103091617.wns.windows.com": "INACTIVE"
+        },
+        "1571432622": {
+            "db5sch103092109.wns.windows.com": "INACTIVE"
+        },
+        "1571432628": {
+            "db5sch103100314.wns.windows.com": "INACTIVE"
+        },
+        "1571432634": {
+            "db5sch103100510.wns.windows.com": "INACTIVE"
+        },
+        "1571432640": {
+            "db5sch103100511.wns.windows.com": "INACTIVE"
+        },
+        "1571432646": {
+            "db5sch103100611.wns.windows.com": "INACTIVE"
+        },
+        "1571432652": {
+            "db5sch103101413.wns.windows.com": "INACTIVE"
+        },
+        "1571432658": {
+            "db5sch103101610.wns.windows.com": "INACTIVE"
+        },
+        "1571432664": {
+            "db5sch103102410.wns.windows.com": "INACTIVE"
+        },
+        "1571432671": {
+            "db5sch103102609.wns.windows.com": "INACTIVE"
+        },
+        "1571432677": {
+            "db5sch103102610.wns.windows.com": "INACTIVE"
+        },
+        "1571432683": {
+            "db5sch103102710.wns.windows.com": "INACTIVE"
+        },
+        "1571432689": {
+            "db5sch103102711.wns.windows.com": "INACTIVE"
+        },
+        "1571432695": {
+            "db5sch103102805.wns.windows.com": "INACTIVE"
+        },
+        "1571432701": {
+            "db6sch102090109.wns.windows.com": "INACTIVE"
+        },
+        "1571432707": {
+            "db6sch102090211.wns.windows.com": "INACTIVE"
+        },
+        "1571432713": {
+            "db6sch102090504.wns.windows.com": "INACTIVE"
+        },
+        "1571432719": {
+            "db6sch102090514.wns.windows.com": "INACTIVE"
+        },
+        "1571432725": {
+            "db6sch102090619.wns.windows.com": "INACTIVE"
+        },
+        "1571432731": {
+            "db6sch102090811.wns.windows.com": "INACTIVE"
+        },
+        "1571432737": {
+            "db6sch102090905.wns.windows.com": "INACTIVE"
+        },
+        "1571432744": {
+            "db6sch102091011.wns.windows.com": "INACTIVE"
+        },
+        "1571432750": {
+            "db6sch102091307.wns.windows.com": "INACTIVE"
+        },
+        "1571432756": {
+            "db6sch102091507.wns.windows.com": "INACTIVE"
+        },
+        "1571432763": {
+            "fe3cr.delivery.mp.microsoft.com": "INACTIVE",
+            "fg.v4.download.windowsupdate.com": "INACTIVE"
+        },
+        "1571432769": {
+            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571432775": {
+            "skydrive.wns.windows.com": "INACTIVE"
         }
     }
 }
