@@ -31,25 +31,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1571349704": {
-            "fe3.delivery.mp.microsoft.com": "INVALID",
-            "geo-prod.do.dsp.mp.microsoft.com": "INVALID",
-            "skydrivesync.policies.live.net": "INVALID",
-            "sls.update.microsoft.com": "INVALID",
-            "slscr.update.microsoft.com": "INVALID",
-            "statsfe2.update.microsoft.com.akadns.net": "INVALID",
-            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INVALID",
-            "v4.download.windowsupdate.com": "INVALID"
-        },
-        "1571432763": {
-            "fg.v4.download.windowsupdate.com": "INACTIVE"
-        },
-        "1571432769": {
-            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1571432775": {
-            "skydrive.wns.windows.com": "INACTIVE"
-        },
         "1571582968": {
             "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -941,6 +922,31 @@
         },
         "1571584931": {
             "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1571585030": {
+            "fe3.delivery.mp.microsoft.com": "INACTIVE"
+        },
+        "1571585036": {
+            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571585042": {
+            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE",
+            "skydrivesync.policies.live.net": "INACTIVE"
+        },
+        "1571585048": {
+            "skydrive.wns.windows.com": "INACTIVE"
+        },
+        "1571585054": {
+            "slscr.update.microsoft.com": "INACTIVE"
+        },
+        "1571585060": {
+            "sls.update.microsoft.com": "INACTIVE"
+        },
+        "1571585061": {
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1571585067": {
+            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
