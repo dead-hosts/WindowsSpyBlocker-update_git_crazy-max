@@ -31,32 +31,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1571751999": {
-            "fe3.delivery.mp.microsoft.com": "INACTIVE"
-        },
-        "1571752005": {
-            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1571752011": {
-            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE",
-            "skydrivesync.policies.live.net": "INACTIVE"
-        },
-        "1571752017": {
-            "skydrive.wns.windows.com": "INACTIVE"
-        },
-        "1571752023": {
-            "slscr.update.microsoft.com": "INACTIVE"
-        },
-        "1571752029": {
-            "sls.update.microsoft.com": "INACTIVE"
-        },
-        "1571752030": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1571752036": {
-            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INACTIVE",
-            "v4.download.windowsupdate.com": "INACTIVE"
-        },
         "1571842253": {
             "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -948,6 +922,31 @@
         },
         "1571844259": {
             "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1571844367": {
+            "fe3.delivery.mp.microsoft.com": "INACTIVE"
+        },
+        "1571844373": {
+            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1571844379": {
+            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE",
+            "skydrivesync.policies.live.net": "INACTIVE"
+        },
+        "1571844385": {
+            "skydrive.wns.windows.com": "INACTIVE"
+        },
+        "1571844391": {
+            "slscr.update.microsoft.com": "INACTIVE"
+        },
+        "1571844397": {
+            "sls.update.microsoft.com": "INACTIVE"
+        },
+        "1571844398": {
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1571844404": {
+            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
