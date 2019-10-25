@@ -162,3 +162,7 @@
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 ds.download.windowsupdate.com
+0.0.0.0 fg.ds.b1.download.windowsupdate.com
+0.0.0.0 fg.v4.download.windowsupdate.com
+0.0.0.0 spo-ring.msedge.net
+0.0.0.0 www.download.windowsupdate.com
