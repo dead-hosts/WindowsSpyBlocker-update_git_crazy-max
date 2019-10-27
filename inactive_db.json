@@ -31,30 +31,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1572043439": {
-            "fe3.delivery.mp.microsoft.com": "INACTIVE"
-        },
-        "1572043445": {
-            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1572043451": {
-            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE",
-            "skydrivesync.policies.live.net": "INACTIVE"
-        },
-        "1572043457": {
-            "skydrive.wns.windows.com": "INACTIVE"
-        },
-        "1572043464": {
-            "slscr.update.microsoft.com": "INACTIVE"
-        },
-        "1572043470": {
-            "sls.update.microsoft.com": "INACTIVE",
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1572043476": {
-            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INACTIVE",
-            "v4.download.windowsupdate.com": "INACTIVE"
-        },
         "1572187950": {
             "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -948,6 +924,31 @@
         },
         "1572189948": {
             "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1572190053": {
+            "fe3.delivery.mp.microsoft.com": "INACTIVE"
+        },
+        "1572190060": {
+            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1572190066": {
+            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE",
+            "skydrivesync.policies.live.net": "INACTIVE"
+        },
+        "1572190072": {
+            "skydrive.wns.windows.com": "INACTIVE"
+        },
+        "1572190078": {
+            "slscr.update.microsoft.com": "INACTIVE"
+        },
+        "1572190084": {
+            "sls.update.microsoft.com": "INACTIVE"
+        },
+        "1572190085": {
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1572190091": {
+            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
