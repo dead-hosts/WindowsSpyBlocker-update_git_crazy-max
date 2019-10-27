@@ -172,3 +172,12 @@
 0.0.0.0 bg.v4.a.dl.ws.microsoft.com
 0.0.0.0 bg.v4.emdl.ws.microsoft.com
 0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 download.microsoft.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 ds.download.windowsupdate.com
+0.0.0.0 emdl.ws.microsoft.com
+0.0.0.0 fe2cr.update.microsoft.com
+0.0.0.0 fe2.update.microsoft.com
+0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 fe2.ws.microsoft.com
