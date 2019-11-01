@@ -31,34 +31,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1572528930": {
-            "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1572528936": {
-            "fe3.delivery.mp.microsoft.com": "INACTIVE"
-        },
-        "1572528943": {
-            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1572528949": {
-            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE",
-            "skydrivesync.policies.live.net": "INACTIVE"
-        },
-        "1572528955": {
-            "skydrive.wns.windows.com": "INACTIVE"
-        },
-        "1572528961": {
-            "slscr.update.microsoft.com": "INACTIVE"
-        },
-        "1572528967": {
-            "sls.update.microsoft.com": "INACTIVE"
-        },
-        "1572528968": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1572528974": {
-            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INACTIVE"
-        },
         "1572620075": {
             "array101-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -947,6 +919,36 @@
         },
         "1572622093": {
             "fe3cr.delivery.mp.microsoft.com": "INACTIVE"
+        },
+        "1572622219": {
+            "fe3.delivery.dsp.mp.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1572622225": {
+            "fe3.delivery.mp.microsoft.com": "INACTIVE",
+            "fg.v4.download.windowsupdate.com": "INACTIVE"
+        },
+        "1572622231": {
+            "geo-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1572622237": {
+            "geover-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1572622238": {
+            "skydrivesync.policies.live.net": "INACTIVE"
+        },
+        "1572622244": {
+            "skydrive.wns.windows.com": "INACTIVE"
+        },
+        "1572622250": {
+            "slscr.update.microsoft.com": "INACTIVE"
+        },
+        "1572622256": {
+            "sls.update.microsoft.com": "INACTIVE",
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1572622262": {
+            "tsfe.trafficshaping.dsp.mp.microsoft.com": "INACTIVE",
+            "v4.download.windowsupdate.com": "INACTIVE"
         }
     }
 }
