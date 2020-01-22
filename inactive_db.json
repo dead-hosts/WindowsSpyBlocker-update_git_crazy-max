@@ -33,6 +33,9 @@
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
         "1579537187": {
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1579698677": {
+            "array204-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
