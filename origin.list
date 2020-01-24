@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts update rules
 ### License: MIT
-### Updated: 2019-09-01T20:25:00Z02:00
+### Updated: 2020-01-23T23:43:00Z01:00
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -491,6 +491,7 @@
 0.0.0.0 fg.v4.download.windowsupdate.com
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
+0.0.0.0 o-ring.msedge.net
 0.0.0.0 skydrive.wns.windows.com
 0.0.0.0 skydrivesync.policies.live.net
 0.0.0.0 sls.update.microsoft.com
