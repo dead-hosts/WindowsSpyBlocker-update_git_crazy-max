@@ -51,6 +51,10 @@
         },
         "1579912350": {
             "array202-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1579949160": {
+            "array104-prod.do.dsp.mp.microsoft.com": "INACTIVE",
+            "array201-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
