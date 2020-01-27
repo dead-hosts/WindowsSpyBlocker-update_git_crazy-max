@@ -34,9 +34,6 @@
         "1579537187": {
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1580064333": {
-            "array401-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
         "1580084248": {
             "array201-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         },
@@ -49,6 +46,10 @@
         },
         "1580129791": {
             "array203-prod.do.dsp.mp.microsoft.com": "INACTIVE"
+        },
+        "1580152858": {
+            "array401-prod.do.dsp.mp.microsoft.com": "INACTIVE",
+            "array402-prod.do.dsp.mp.microsoft.com": "INACTIVE"
         }
     }
 }
