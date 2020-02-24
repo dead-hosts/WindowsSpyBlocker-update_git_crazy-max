@@ -31,19 +31,7 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1582427575": {
-            "array201-prod.do.dsp.mp.microsoft.com": "INACTIVE",
-            "array202-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1582431718": {
-            "array403-prod.do.dsp.mp.microsoft.com": "INACTIVE",
-            "array404-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1582440072": {
-            "array103-prod.do.dsp.mp.microsoft.com": "INACTIVE",
-            "array104-prod.do.dsp.mp.microsoft.com": "INACTIVE"
-        },
-        "1582444127": {
+        "1582563329": {
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
         }
     }
