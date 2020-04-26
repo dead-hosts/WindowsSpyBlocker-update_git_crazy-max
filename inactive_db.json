@@ -1,38 +1,20 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker_update.list": {
-        "1560780213": {},
-        "1560865392": {},
-        "1560953144": {},
-        "1561125744": {},
-        "1561299708": {},
-        "1561471719": {},
-        "1561644810": {},
-        "1561818281": {},
-        "1561992069": {},
-        "1562173362": {},
-        "1562335858": {},
-        "1562510478": {},
-        "1562681800": {},
-        "1562855493": {},
-        "1563027405": {},
-        "1563201616": {},
-        "1563373932": {},
-        "1563545893": {},
-        "1563718718": {},
-        "1563891584": {},
-        "1564065498": {},
-        "1564237300": {},
-        "1564410163": {},
-        "1564583056": {},
-        "1564756198": {},
-        "1564928932": {},
-        "1565533766": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        "statsfe2.update.microsoft.com.akadns.net": {
+            "included_at_epoch": 1565533766.0,
+            "included_at_iso": "2019-08-11T14:29:26",
+            "last_retested_at_epoch": 1565533766.0,
+            "last_retested_at_iso": "2019-08-11T14:29:26",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "1587145260": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
+        "statsfe2.update.microsoft.com.akadns.net": {
+            "included_at_epoch": 1587145260.0,
+            "included_at_iso": "2020-04-17T17:41:00",
+            "last_retested_at_epoch": 1587920260.939883,
+            "last_retested_at_iso": "2020-04-26T16:57:40.939883",
+            "status": "INACTIVE"
         }
     }
 }
