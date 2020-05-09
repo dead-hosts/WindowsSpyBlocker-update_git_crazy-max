@@ -2,7 +2,7 @@ adblock: false
 aggressive: false
 auto_continue: true
 ci: true
-ci_autosave_commit: '[Autosave][Dead-Hosts::repository-structure]'
+ci_autosave_commit: '[Autosave][Dead-Hosts::WindowsSpyBlocker-update_git_crazy-max]'
 ci_autosave_final_commit: '[Final/Result][Dead-Hosts::WindowsSpyBlocker-update_git_crazy-max]
     | cc @crazy-max | '
 ci_autosave_minutes: 10
