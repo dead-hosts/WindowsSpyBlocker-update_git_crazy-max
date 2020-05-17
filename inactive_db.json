@@ -9,25 +9,11 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
-        "db5sch101101739.wns.windows.com": {
-            "included_at_epoch": 1589561079.568849,
-            "included_at_iso": "2020-05-15T16:44:39.568849",
-            "last_retested_at_epoch": 1589561079.568849,
-            "last_retested_at_iso": "2020-05-15T16:44:39.568849",
-            "status": "INACTIVE"
-        },
-        "db5sch101110829.wns.windows.com": {
-            "included_at_epoch": 1589561079.644102,
-            "included_at_iso": "2020-05-15T16:44:39.644102",
-            "last_retested_at_epoch": 1589561079.644102,
-            "last_retested_at_iso": "2020-05-15T16:44:39.644102",
-            "status": "INACTIVE"
-        },
         "statsfe2.update.microsoft.com.akadns.net": {
-            "included_at_epoch": 1587145260.0,
-            "included_at_iso": "2020-04-17T17:41:00",
-            "last_retested_at_epoch": 1589561079.835367,
-            "last_retested_at_iso": "2020-05-15T16:44:39.835367",
+            "included_at_epoch": 1589734251.306024,
+            "included_at_iso": "2020-05-17T16:50:51.306024",
+            "last_retested_at_epoch": 1589734251.306024,
+            "last_retested_at_iso": "2020-05-17T16:50:51.306024",
             "status": "INACTIVE"
         }
     }
