@@ -12,8 +12,8 @@
         "statsfe2.update.microsoft.com.akadns.net": {
             "included_at_epoch": 1592327870.984141,
             "included_at_iso": "2020-06-16T17:17:50.984141",
-            "last_retested_at_epoch": 1592327870.984141,
-            "last_retested_at_iso": "2020-06-16T17:17:50.984141",
+            "last_retested_at_epoch": 1592499631.167632,
+            "last_retested_at_iso": "2020-06-18T17:00:31.167632",
             "status": "INACTIVE"
         }
     }
