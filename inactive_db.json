@@ -10,10 +10,10 @@
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-update_git_crazy-max/domains.list": {
         "statsfe2.update.microsoft.com.akadns.net": {
-            "included_at_epoch": 1592327870.984141,
-            "included_at_iso": "2020-06-16T17:17:50.984141",
-            "last_retested_at_epoch": 1594661088.718032,
-            "last_retested_at_iso": "2020-07-13T17:24:48.718032",
+            "included_at_epoch": 1594809013.378234,
+            "included_at_iso": "2020-07-15T10:30:13.378234",
+            "last_retested_at_epoch": 1594809013.378234,
+            "last_retested_at_iso": "2020-07-15T10:30:13.378234",
             "status": "INACTIVE"
         }
     }
