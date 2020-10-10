@@ -3475,10 +3475,10 @@
             "status": "ACTIVE"
         },
         "statsfe2.update.microsoft.com.akadns.net": {
-            "included_at_epoch": 1599932408.474842,
-            "included_at_iso": "2020-09-12T17:40:08.474842",
-            "last_retested_at_epoch": 1602179638.316676,
-            "last_retested_at_iso": "2020-10-08T17:53:58.316676",
+            "included_at_epoch": 1602351850.085764,
+            "included_at_iso": "2020-10-10T17:44:10.085764",
+            "last_retested_at_epoch": 1602351850.085764,
+            "last_retested_at_iso": "2020-10-10T17:44:10.085764",
             "status": "INACTIVE"
         },
         "statsfe2.ws.microsoft.com": {
