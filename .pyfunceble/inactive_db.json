@@ -1234,6 +1234,195 @@
             "last_retested_at_iso": "2020-11-03T19:34:12.319976",
             "status": "ACTIVE"
         },
+        "array508.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.055156,
+            "included_at_iso": "2020-11-05T19:11:41.055156",
+            "last_retested_at_epoch": 1604603501.055156,
+            "last_retested_at_iso": "2020-11-05T19:11:41.055156",
+            "status": "ACTIVE"
+        },
+        "array509.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.064434,
+            "included_at_iso": "2020-11-05T19:11:41.064434",
+            "last_retested_at_epoch": 1604603501.064434,
+            "last_retested_at_iso": "2020-11-05T19:11:41.064434",
+            "status": "ACTIVE"
+        },
+        "array510.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.072918,
+            "included_at_iso": "2020-11-05T19:11:41.072918",
+            "last_retested_at_epoch": 1604603501.072918,
+            "last_retested_at_iso": "2020-11-05T19:11:41.072918",
+            "status": "ACTIVE"
+        },
+        "array511.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.0812,
+            "included_at_iso": "2020-11-05T19:11:41.081200",
+            "last_retested_at_epoch": 1604603501.0812,
+            "last_retested_at_iso": "2020-11-05T19:11:41.081200",
+            "status": "ACTIVE"
+        },
+        "array512.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.090519,
+            "included_at_iso": "2020-11-05T19:11:41.090519",
+            "last_retested_at_epoch": 1604603501.090519,
+            "last_retested_at_iso": "2020-11-05T19:11:41.090519",
+            "status": "ACTIVE"
+        },
+        "array513.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.099827,
+            "included_at_iso": "2020-11-05T19:11:41.099827",
+            "last_retested_at_epoch": 1604603501.099827,
+            "last_retested_at_iso": "2020-11-05T19:11:41.099827",
+            "status": "ACTIVE"
+        },
+        "array514.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.108509,
+            "included_at_iso": "2020-11-05T19:11:41.108509",
+            "last_retested_at_epoch": 1604603501.108509,
+            "last_retested_at_iso": "2020-11-05T19:11:41.108509",
+            "status": "ACTIVE"
+        },
+        "array515.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.117543,
+            "included_at_iso": "2020-11-05T19:11:41.117543",
+            "last_retested_at_epoch": 1604603501.117543,
+            "last_retested_at_iso": "2020-11-05T19:11:41.117543",
+            "status": "ACTIVE"
+        },
+        "array601.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.12663,
+            "included_at_iso": "2020-11-05T19:11:41.126630",
+            "last_retested_at_epoch": 1604603501.12663,
+            "last_retested_at_iso": "2020-11-05T19:11:41.126630",
+            "status": "ACTIVE"
+        },
+        "array602.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.135545,
+            "included_at_iso": "2020-11-05T19:11:41.135545",
+            "last_retested_at_epoch": 1604603501.135545,
+            "last_retested_at_iso": "2020-11-05T19:11:41.135545",
+            "status": "ACTIVE"
+        },
+        "array603.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.144408,
+            "included_at_iso": "2020-11-05T19:11:41.144408",
+            "last_retested_at_epoch": 1604603501.144408,
+            "last_retested_at_iso": "2020-11-05T19:11:41.144408",
+            "status": "ACTIVE"
+        },
+        "array604.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.153576,
+            "included_at_iso": "2020-11-05T19:11:41.153576",
+            "last_retested_at_epoch": 1604603501.153576,
+            "last_retested_at_iso": "2020-11-05T19:11:41.153576",
+            "status": "ACTIVE"
+        },
+        "array605.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.162814,
+            "included_at_iso": "2020-11-05T19:11:41.162814",
+            "last_retested_at_epoch": 1604603501.162814,
+            "last_retested_at_iso": "2020-11-05T19:11:41.162814",
+            "status": "ACTIVE"
+        },
+        "array606.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.172163,
+            "included_at_iso": "2020-11-05T19:11:41.172163",
+            "last_retested_at_epoch": 1604603501.172163,
+            "last_retested_at_iso": "2020-11-05T19:11:41.172163",
+            "status": "ACTIVE"
+        },
+        "array607.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.181088,
+            "included_at_iso": "2020-11-05T19:11:41.181088",
+            "last_retested_at_epoch": 1604603501.181088,
+            "last_retested_at_iso": "2020-11-05T19:11:41.181088",
+            "status": "ACTIVE"
+        },
+        "array608.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.190295,
+            "included_at_iso": "2020-11-05T19:11:41.190295",
+            "last_retested_at_epoch": 1604603501.190295,
+            "last_retested_at_iso": "2020-11-05T19:11:41.190295",
+            "status": "ACTIVE"
+        },
+        "array609.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.208516,
+            "included_at_iso": "2020-11-05T19:11:41.208516",
+            "last_retested_at_epoch": 1604603501.208516,
+            "last_retested_at_iso": "2020-11-05T19:11:41.208516",
+            "status": "ACTIVE"
+        },
+        "array610.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.199327,
+            "included_at_iso": "2020-11-05T19:11:41.199327",
+            "last_retested_at_epoch": 1604603501.199327,
+            "last_retested_at_iso": "2020-11-05T19:11:41.199327",
+            "status": "ACTIVE"
+        },
+        "array611.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.217532,
+            "included_at_iso": "2020-11-05T19:11:41.217532",
+            "last_retested_at_epoch": 1604603501.217532,
+            "last_retested_at_iso": "2020-11-05T19:11:41.217532",
+            "status": "ACTIVE"
+        },
+        "array612.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.22655,
+            "included_at_iso": "2020-11-05T19:11:41.226550",
+            "last_retested_at_epoch": 1604603501.22655,
+            "last_retested_at_iso": "2020-11-05T19:11:41.226550",
+            "status": "ACTIVE"
+        },
+        "array613.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.236098,
+            "included_at_iso": "2020-11-05T19:11:41.236098",
+            "last_retested_at_epoch": 1604603501.236098,
+            "last_retested_at_iso": "2020-11-05T19:11:41.236098",
+            "status": "ACTIVE"
+        },
+        "array614.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.246045,
+            "included_at_iso": "2020-11-05T19:11:41.246045",
+            "last_retested_at_epoch": 1604603501.246045,
+            "last_retested_at_iso": "2020-11-05T19:11:41.246045",
+            "status": "ACTIVE"
+        },
+        "array615.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.255167,
+            "included_at_iso": "2020-11-05T19:11:41.255167",
+            "last_retested_at_epoch": 1604603501.255167,
+            "last_retested_at_iso": "2020-11-05T19:11:41.255167",
+            "status": "ACTIVE"
+        },
+        "array616.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.264476,
+            "included_at_iso": "2020-11-05T19:11:41.264476",
+            "last_retested_at_epoch": 1604603501.264476,
+            "last_retested_at_iso": "2020-11-05T19:11:41.264476",
+            "status": "ACTIVE"
+        },
+        "array810.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.273598,
+            "included_at_iso": "2020-11-05T19:11:41.273598",
+            "last_retested_at_epoch": 1604603501.273598,
+            "last_retested_at_iso": "2020-11-05T19:11:41.273598",
+            "status": "ACTIVE"
+        },
+        "array813.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.282592,
+            "included_at_iso": "2020-11-05T19:11:41.282592",
+            "last_retested_at_epoch": 1604603501.282592,
+            "last_retested_at_iso": "2020-11-05T19:11:41.282592",
+            "status": "ACTIVE"
+        },
+        "array815.prod.do.dsp.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.291832,
+            "included_at_iso": "2020-11-05T19:11:41.291832",
+            "last_retested_at_epoch": 1604603501.291832,
+            "last_retested_at_iso": "2020-11-05T19:11:41.291832",
+            "status": "ACTIVE"
+        },
         "au.download.windowsupdate.com": {
             "included_at_epoch": 1603562549.297848,
             "included_at_iso": "2020-10-24T18:02:29.297848",
@@ -3416,6 +3605,13 @@
             "included_at_iso": "2020-10-24T18:02:31.180219",
             "last_retested_at_epoch": 1604432055.018434,
             "last_retested_at_iso": "2020-11-03T19:34:15.018434",
+            "status": "ACTIVE"
+        },
+        "msedge.b.tlu.dl.delivery.mp.microsoft.com": {
+            "included_at_epoch": 1604603501.30081,
+            "included_at_iso": "2020-11-05T19:11:41.300810",
+            "last_retested_at_epoch": 1604603501.30081,
+            "last_retested_at_iso": "2020-11-05T19:11:41.300810",
             "status": "ACTIVE"
         },
         "o-ring.msedge.net": {
