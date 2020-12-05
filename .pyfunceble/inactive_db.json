@@ -3671,10 +3671,10 @@
             "status": "ACTIVE"
         },
         "statsfe2.update.microsoft.com.akadns.net": {
-            "included_at_epoch": 1604771913.81156,
-            "included_at_iso": "2020-11-07T17:58:33.811560",
-            "last_retested_at_epoch": 1606863862.438151,
-            "last_retested_at_iso": "2020-12-01T23:04:22.438151",
+            "included_at_epoch": 1607192922.943006,
+            "included_at_iso": "2020-12-05T18:28:42.943006",
+            "last_retested_at_epoch": 1607192922.943006,
+            "last_retested_at_iso": "2020-12-05T18:28:42.943006",
             "status": "INACTIVE"
         },
         "statsfe2.ws.microsoft.com": {
