@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker-update_git_crazy-max/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
     "hash": "cc840ad0c2d2712cd0207c2d964511fe5882348f847cb858bc30c3f0",
     "line_number": 539,
     "output_dir": "/home/runner/work/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker-update_git_crazy-max/output/origin.list",
     "previous_hash": "cc840ad0c2d2712cd0207c2d964511fe5882348f847cb858bc30c3f0",
-    "rel_source": "origin.list",
-    "session_id": "9b7ad4d948d4ee63d2e96de5",
-    "source": "/home/runner/work/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker-update_git_crazy-max/origin.list",
-    "subject": "/home/runner/work/WindowsSpyBlocker-update_git_crazy-max/WindowsSpyBlocker-update_git_crazy-max/origin.list",
+    "session_id": "fa36d0e92f658a4996f899ec",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
