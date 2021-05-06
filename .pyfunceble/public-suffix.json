@@ -959,6 +959,8 @@
         "appspaceusercontent.com",
         "appspot.com",
         "ar.com",
+        "authgear-staging.com",
+        "authgearapps.com",
         "awsglobalaccelerator.com",
         "awsmppl.com",
         "balena-devices.com",
@@ -1769,6 +1771,7 @@
         "freebox-os.fr",
         "freeboxos.fr",
         "geometre-expert.fr",
+        "goupile.fr",
         "gouv.fr",
         "greta.fr",
         "huissier-justice.fr",
@@ -6769,7 +6772,6 @@
         "mine.nu",
         "nom.nu",
         "shacknet.nu",
-        "telebit.xyz",
         "uwu.nu"
     ],
     "nz": [
@@ -8095,6 +8097,7 @@
         "gov.uk",
         "gwiddle.co.uk",
         "homeoffice.gov.uk",
+        "hosp.uk",
         "j.layershift.co.uk",
         "ltd.uk",
         "lug.org.uk",
@@ -8463,6 +8466,7 @@
         "blogsite.xyz",
         "crafting.xyz",
         "localzone.xyz",
+        "telebit.xyz",
         "zapto.xyz"
     ],
     "ye": [
