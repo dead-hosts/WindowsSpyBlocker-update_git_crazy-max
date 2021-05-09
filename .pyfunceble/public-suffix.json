@@ -5719,7 +5719,6 @@
         "redirectme.net",
         "reserve-online.net",
         "ric.jelastic.vps-host.net",
-        "ru.net",
         "schokokeks.net",
         "scrapper-site.net",
         "se.net",
@@ -7355,7 +7354,8 @@
         "nome.pt",
         "nym.pt",
         "org.pt",
-        "publ.pt"
+        "publ.pt",
+        "ru.net"
     ],
     "pub": [
         "barsy.pub"
@@ -7935,7 +7935,6 @@
         "info.tt",
         "int.tt",
         "jobs.tt",
-        "mobi.tt",
         "museum.tt",
         "name.tt",
         "net.tt",
@@ -8401,6 +8400,7 @@
         "info.ve",
         "int.ve",
         "mil.ve",
+        "mobi.tt",
         "net.ve",
         "org.ve",
         "rec.ve",
