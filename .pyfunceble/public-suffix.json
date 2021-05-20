@@ -7475,7 +7475,6 @@
         "org.ru",
         "pp.ru",
         "pyatigorsk.ru",
-        "ra-ru.ru",
         "ras.ru",
         "spb.ru",
         "spectrum.myjino.ru",
@@ -7483,8 +7482,7 @@
         "vladikavkaz.ru",
         "vladimir.ru",
         "vps.mcdir.ru",
-        "vps.myjino.ru",
-        "zsew.ru"
+        "vps.myjino.ru"
     ],
     "run": [
         "code.run",
@@ -7627,7 +7625,8 @@
     "si": [
         "blogspot.si",
         "gitapp.si",
-        "gitpage.si"
+        "gitpage.si",
+        "nom.si"
     ],
     "site": [
         "barsy.site",
@@ -7641,7 +7640,6 @@
         "lelux.site",
         "loginline.site",
         "mintere.site",
-        "nom.si",
         "omniwe.site",
         "opensocial.site",
         "platformsh.site",
