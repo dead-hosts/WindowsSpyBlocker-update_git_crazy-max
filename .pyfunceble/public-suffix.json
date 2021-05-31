@@ -4762,6 +4762,7 @@
         "com.lv",
         "conf.lv",
         "edu.lv",
+        "farm.museum",
         "gov.lv",
         "id.lv",
         "mil.lv",
@@ -7384,6 +7385,7 @@
         "org.py"
     ],
     "qa": [
+        "azure-mobile.net",
         "blogspot.qa",
         "com.qa",
         "edu.qa",
