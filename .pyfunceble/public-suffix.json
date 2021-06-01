@@ -4642,7 +4642,6 @@
         "org.kw"
     ],
     "ky": [
-        "com.ky",
         "edu.ky",
         "gov.ky",
         "net.ky",
@@ -4762,7 +4761,6 @@
         "com.lv",
         "conf.lv",
         "edu.lv",
-        "farm.museum",
         "gov.lv",
         "id.lv",
         "mil.lv",
@@ -4906,6 +4904,7 @@
         "org.mn"
     ],
     "mo": [
+        "com.ky",
         "com.mo",
         "edu.mo",
         "gov.mo",
@@ -7385,7 +7384,6 @@
         "org.py"
     ],
     "qa": [
-        "azure-mobile.net",
         "blogspot.qa",
         "com.qa",
         "edu.qa",
