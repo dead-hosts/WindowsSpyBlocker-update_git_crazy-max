@@ -520,3 +520,14 @@ msedge.b.tlu.dl.delivery.mp.microsoft.com                                       
 o-ring.msedge.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 skydrive.wns.windows.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 skydrivesync.policies.live.net                                                                       ACTIVE      DNSLOOKUP  Unknown           400        AVAILABILITY 
+sls.update.microsoft.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+slscr.update.microsoft.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+spo-ring.msedge.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+statsfe2.update.microsoft.com                                                                        ACTIVE      DNSLOOKUP  Unknown           403        AVAILABILITY 
+statsfe1.ws.microsoft.com                                                                            ACTIVE      DNSLOOKUP  Unknown           403        AVAILABILITY 
+statsfe2.ws.microsoft.com                                                                            ACTIVE      DNSLOOKUP  Unknown           403        AVAILABILITY 
+tlu.dl.delivery.mp.microsoft.com                                                                     ACTIVE      DNSLOOKUP  Unknown           403        AVAILABILITY 
+tsfe.trafficshaping.dsp.mp.microsoft.com                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+v4.download.windowsupdate.com                                                                        ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
+windowsupdate.com                                                                                    ACTIVE      WHOIS      21-jul-2021       Unknown    AVAILABILITY 
+www.download.windowsupdate.com                                                                       ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
