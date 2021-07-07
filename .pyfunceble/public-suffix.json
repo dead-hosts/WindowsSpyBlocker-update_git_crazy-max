@@ -1621,8 +1621,7 @@
         "tm.dz"
     ],
     "earth": [
-        "bzz.dapps.earth",
-        "dapps.earth"
+        "bzz.dapps.earth"
     ],
     "ec": [
         "com.ec",
@@ -2071,8 +2070,7 @@
         "muni.il",
         "net.il",
         "org.il",
-        "ravpage.co.il",
-        "xn--c1avg.xn--p1acf"
+        "ravpage.co.il"
     ],
     "im": [
         "ac.im",
@@ -5630,6 +5628,7 @@
         "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
+        "dapps.earth",
         "dattolocal.net",
         "ddns.net",
         "debian.net",
