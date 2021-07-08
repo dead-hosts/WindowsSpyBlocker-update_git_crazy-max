@@ -1621,7 +1621,8 @@
         "tm.dz"
     ],
     "earth": [
-        "bzz.dapps.earth"
+        "bzz.dapps.earth",
+        "dapps.earth"
     ],
     "ec": [
         "com.ec",
@@ -4400,7 +4401,6 @@
         "yamagata.yamagata.jp",
         "yamaguchi.jp",
         "yamakita.kanagawa.jp",
-        "yamamoto.miyagi.jp",
         "yamanakako.yamanashi.jp",
         "yamanashi.jp",
         "yamanashi.yamanashi.jp",
@@ -4939,7 +4939,8 @@
         "com.mt",
         "edu.mt",
         "net.mt",
-        "org.mt"
+        "org.mt",
+        "yamamoto.miyagi.jp"
     ],
     "mu": [
         "ac.mu",
@@ -5628,7 +5629,6 @@
         "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
-        "dapps.earth",
         "dattolocal.net",
         "ddns.net",
         "debian.net",
