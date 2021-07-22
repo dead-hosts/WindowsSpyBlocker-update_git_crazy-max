@@ -359,7 +359,6 @@
         "g.bg",
         "h.bg",
         "i.bg",
-        "j.bg",
         "k.bg",
         "l.bg",
         "m.bg",
@@ -381,6 +380,7 @@
         "com.bh",
         "edu.bh",
         "gov.bh",
+        "j.bg",
         "net.bh",
         "org.bh"
     ],
@@ -2665,6 +2665,7 @@
         "xn--trentino-sdtirol-szb.it",
         "xn--trentinosd-tirol-rzb.it",
         "xn--trentinosdtirol-7vb.it",
+        "xn--trentinsd-tirol-6vb.it",
         "xn--trentinsdtirol-nsb.it",
         "xn--valle-aoste-ebb.it",
         "xn--valle-d-aoste-ehb.it",
