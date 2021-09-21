@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-apac1.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2021-09-20 03:54:48.055345
-bl2p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2021-09-20 03:54:55.014819
 db5p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2021-09-20 03:55:02.029838
 statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-09-20 03:55:08.875820
 fe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-09-20 11:15:49.050099
@@ -20,3 +18,5 @@ array405-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-21 01:37:
 array406-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-21 01:37:26.309525
 array407-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-21 01:37:32.200738
 array408-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-21 01:37:38.180453
+apac1.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2021-09-21 07:19:11.047480
+bl2p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2021-09-21 07:19:17.832915
