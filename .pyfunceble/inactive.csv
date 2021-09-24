@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-array401-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-23 07:20:57.151566
-array402-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-23 07:21:03.140547
 array403-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-23 07:21:09.125503
 array404-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-23 07:21:15.135402
 array405-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-23 07:21:21.045891
@@ -20,3 +18,5 @@ array201-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-24 07:21:
 array202-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-24 07:21:43.929581
 array203-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-24 07:21:49.419395
 array204-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-24 07:21:54.910262
+array401-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-24 11:14:36.444362
+array402-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-24 11:14:42.425982
