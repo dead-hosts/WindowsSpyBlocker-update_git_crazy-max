@@ -681,7 +681,6 @@
         "com.bs",
         "edu.bs",
         "gov.bs",
-        "jls-sto2.elastx.net",
         "net.bs",
         "org.bs",
         "we.bs"
@@ -5637,7 +5636,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -5705,6 +5703,7 @@
         "jelastic.saveincloud.net",
         "jelastic.tsukaeru.net",
         "jls-sto1.elastx.net",
+        "jls-sto2.elastx.net",
         "jls-sto3.elastx.net",
         "jp.net",
         "kicks-ass.net",
@@ -5775,7 +5774,6 @@
         "user.srcf.net",
         "vpndns.net",
         "vps-host.net",
-        "we.bs",
         "webhop.net",
         "webpaas.ovh.net",
         "website.yandexcloud.net",
@@ -7915,6 +7913,9 @@
         "oya.to",
         "rdv.to",
         "vpnplus.to"
+    ],
+    "today": [
+        "prequalifyme.today"
     ],
     "top": [
         "now-dns.top",
