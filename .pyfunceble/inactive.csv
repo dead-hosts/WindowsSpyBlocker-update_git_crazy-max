@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-array101-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:00.397627
-array102-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:04.342780
-array103-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:08.280418
-array104-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:12.213692
-array201-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:16.259580
-array202-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:20.161191
-array203-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:23.996384
-array204-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-28 23:09:27.964533
 array401-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-29 03:37:48.574692
 array402-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-29 03:37:52.431286
 array403-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-29 03:37:56.407625
@@ -20,3 +12,11 @@ bl2p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2021-09-29 03:38
 db5p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2021-09-29 03:38:27.647205
 statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-09-29 03:38:31.493557
 fe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-09-29 15:09:38.775445
+array101-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:45:45.563368
+array102-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:45:49.140421
+array103-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:45:52.676995
+array104-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:45:56.252528
+array201-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:45:59.858689
+array202-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:46:03.467848
+array203-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:46:07.050524
+array204-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2021-09-30 03:46:10.673317
