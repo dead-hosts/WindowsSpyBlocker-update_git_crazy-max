@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-002557-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-08 05:29:57.782018
-0025be-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-08 05:29:58.257732
-002562-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-08 05:29:58.756200
-0025f2-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-08 05:29:58.832104
-00268c-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-08 05:29:58.994093
-0026a1-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-08 05:29:59.277242
-0026bc-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-08 05:29:59.349879
 sg2p.wns.notify.trafficmanager.net,AVAILABILITY,origin.list,2023-01-09 05:28:49.409628
 array401-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-01-09 05:28:49.880400
 array403-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-01-09 05:28:50.316816
@@ -29,3 +22,10 @@ apac1.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-01-09 05:28:52
 fe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-01-09 05:28:52.941717
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-01-09 05:28:53.145866
 db5p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-01-09 05:28:53.404984
+002557-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-10 05:28:03.170518
+0025be-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-10 05:28:03.712972
+002562-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-10 05:28:04.235468
+00268c-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-10 05:28:04.884400
+0025f2-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-10 05:28:04.932332
+0026a1-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-10 05:28:04.943152
+0026bc-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-01-10 05:28:05.187823
