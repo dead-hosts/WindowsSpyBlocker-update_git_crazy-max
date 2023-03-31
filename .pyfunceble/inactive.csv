@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-0023c5-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:15.506137
-002518-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:15.772379
-002557-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:15.885766
-002562-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:16.082602
-0025be-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:16.158786
-00268c-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:16.191283
-0026a1-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:16.269610
-0025f2-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:16.451879
-0026bc-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-29 05:27:16.550146
 array403-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-03-30 05:23:05.211977
 array401-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-03-30 05:23:05.597154
 array402-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-03-30 05:23:06.000582
@@ -32,3 +23,12 @@ bl2p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-03-30 05:23
 db5p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-03-30 05:23:08.858288
 apac1.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-03-30 05:23:09.014549
 fe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-30 05:23:09.046179
+0023c5-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:01.211661
+002518-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:01.516612
+002557-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:01.557737
+002562-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:01.667936
+0025be-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:01.955544
+00268c-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:01.980371
+0026a1-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:02.037971
+0025f2-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:02.124824
+0026bc-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-03-31 05:27:02.388710
