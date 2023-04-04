@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-0023c5-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:55.895593
-002518-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:55.905650
-002557-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:56.107937
-0025be-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:56.359120
-002562-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:56.367817
-00268c-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:56.567687
-0026a1-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:56.783468
-0026bc-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:56.859904
-0025f2-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-02 05:25:56.890344
 array403-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-04-03 05:28:19.589463
 array401-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-04-03 05:28:20.035995
 array402-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-04-03 05:28:20.204043
@@ -32,3 +23,12 @@ bl2p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-04-03 05:28
 apac1.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-04-03 05:28:22.896900
 fe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-03 05:28:23.212761
 db5p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-04-03 05:28:24.545834
+0023c5-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:36.595820
+002518-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:36.970786
+002557-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:37.013891
+0025be-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:37.100849
+002562-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:37.355787
+00268c-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:37.372282
+0026a1-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:37.424114
+0026bc-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:37.507150
+0025f2-1.l.windowsupdate.com,AVAILABILITY,origin.list,2023-04-04 05:23:37.760032
