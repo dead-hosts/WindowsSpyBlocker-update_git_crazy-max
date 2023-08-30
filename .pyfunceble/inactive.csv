@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bg.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:44.804026
-bg1.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:45.251363
-bg1.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:45.689129
-bg2.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:46.135132
-bg2.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:46.572794
-bg3.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:47.020308
-bg3.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:47.459346
-bg4.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:47.889643
-bg4.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:48.321741
-bg5.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:48.495115
-emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:48.611640
-fe2.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:48.758827
-bg5.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:48.934083
-bg.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-28 05:21:48.987803
 array401-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-08-29 05:21:54.984755
 array407-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-08-29 05:21:55.421866
 array103-prod.do.dsp.mp.microsoft.com,AVAILABILITY,origin.list,2023-08-29 05:21:55.845042
@@ -37,3 +23,17 @@ apac1.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-08-29 05:21:59
 statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-08-29 05:21:59.451203
 db5p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-08-29 05:21:59.491707
 bl2p.wns.notify.windows.com.akadns.net,AVAILABILITY,origin.list,2023-08-29 05:21:59.972924
+bg.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:32.434955
+bg1.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:32.859329
+bg1.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:33.282722
+bg2.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:34.705114
+bg2.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:35.125547
+bg3.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:35.547252
+bg3.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:35.983650
+bg4.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:36.014109
+bg4.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:36.040986
+bg5.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:36.397402
+emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:36.428768
+fe2.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:36.454997
+bg5.v4.emdl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:36.583187
+bg.v4.a.dl.ws.microsoft.com,AVAILABILITY,origin.list,2023-08-30 05:21:36.799660
